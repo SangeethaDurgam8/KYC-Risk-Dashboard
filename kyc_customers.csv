@@ -1,0 +1,1501 @@
+customer_id,name,country,industry,monthly_txn_volume,pep_flag,adverse_media_flag,onboarding_date
+1,"Rodriguez, Figueroa and Sanchez",UK,Manufacturing,59934.28,0,1,20/11/2021
+2,"Garcia, Yang and Gardner",Sudan,Crypto Exchange,47234.71,0,0,15/04/2024
+3,Johnson and Sons,UK,Manufacturing,62953.77,1,0,05/09/2022
+4,"Guzman, Hoffman and Baldwin",Iran,Manufacturing,80460.6,0,0,03/05/2025
+5,Robinson-Lawrence,Turkey,Retail,45316.93,0,1,03/10/2020
+6,Wolfe LLC,Sudan,Oil & Gas,45317.26,1,0,24/01/2023
+7,Lewis LLC,France,Finance,81584.26,1,1,27/07/2021
+8,James LLC,Afghanistan,Finance,65348.69,0,1,17/08/2023
+9,"Baker, Williams and Stevens",North Korea,Manufacturing,40610.51,1,0,05/10/2021
+10,Miller-Carter,Brazil,Real Estate,60851.2,1,0,11/10/2023
+11,"Lee, Jones and Stanley",Germany,Oil & Gas,40731.65,0,1,01/03/2023
+12,Wyatt Inc,North Korea,Gambling,40685.4,1,0,08/12/2023
+13,Chavez-Flowers,Germany,Manufacturing,54839.25,0,0,31/01/2022
+14,Kelly-Santiago,France,Gambling,11734.4,0,0,22/04/2021
+15,"Reid, Ferguson and Sanchez",USA,Manufacturing,15501.64,1,1,19/08/2024
+16,Nelson-Schaefer,South Africa,Real Estate,38754.25,0,1,09/06/2025
+17,Cohen Inc,Brazil,Crypto Exchange,29743.38,1,0,25/08/2022
+18,Trujillo Group,Mexico,Finance,56284.95,0,0,23/12/2022
+19,Clark PLC,South Africa,Consulting,31839.52,1,0,18/05/2023
+20,Rios Group,UK,Real Estate,21753.93,0,0,08/08/2024
+21,Baker and Sons,USA,Retail,79312.98,1,1,23/06/2025
+22,"Baker, Richards and Hurst",Afghanistan,Manufacturing,45484.47,0,1,05/02/2024
+23,Robinson-Bright,Sudan,Oil & Gas,51350.56,1,1,13/01/2025
+24,Davis-Williams,Syria,Gambling,21505.04,0,0,19/08/2021
+25,Burton Ltd,Germany,Gambling,39112.35,1,1,16/04/2024
+26,"Brown, James and Ferrell",Brazil,Crypto Exchange,52218.45,0,1,14/03/2025
+27,Maddox-Valencia,North Korea,Retail,26980.13,0,0,18/10/2020
+28,"Le, Maldonado and Herrera",UK,Finance,57513.96,1,0,20/12/2022
+29,"Peterson, Carter and Moore",India,Consulting,37987.23,1,1,23/09/2020
+30,"Liu, Baker and Mason",Turkey,Retail,44166.13,0,1,22/03/2022
+31,"Gaines, Harrell and Evans",France,Real Estate,37965.87,0,1,07/01/2025
+32,"Gonzalez, Brooks and Martin",India,Finance,87045.56,1,0,18/03/2025
+33,George Group,Germany,Gambling,49730.06,0,0,12/11/2020
+34,Hickman LLC,USA,Gambling,28845.78,0,0,26/09/2022
+35,Allen PLC,Brazil,Finance,66450.9,0,1,15/05/2021
+36,Dennis Inc,South Africa,Retail,25583.13,0,1,26/03/2025
+37,Anderson Group,Canada,Gambling,54177.27,0,0,18/05/2025
+38,Baker PLC,Sudan,Manufacturing,10806.6,0,1,19/04/2024
+39,Hickman Ltd,USA,Manufacturing,23436.28,0,0,30/05/2022
+40,"Collins, Carney and Santos",UK,Oil & Gas,53937.22,0,1,05/06/2024
+41,"Hayes, Wright and Brown",Turkey,Consulting,64769.33,0,0,17/11/2020
+42,"Spencer, Chapman and Smith",Germany,Gambling,53427.37,1,1,14/03/2021
+43,Jones Inc,South Africa,Oil & Gas,47687.03,0,0,06/07/2023
+44,Palmer LLC,Sudan,Manufacturing,43977.93,1,0,30/10/2024
+45,Ryan Ltd,Mexico,Crypto Exchange,20429.56,0,0,23/07/2025
+46,"Kennedy, Mueller and Aguirre",North Korea,Retail,35603.12,0,0,27/04/2022
+47,Davis Group,Canada,Retail,40787.22,1,0,18/09/2023
+48,Jenkins-Shields,Turkey,Crypto Exchange,71142.44,1,1,28/02/2021
+49,"Valdez, Lucas and Brown",Sudan,Finance,56872.37,1,0,03/08/2023
+50,Wright and Sons,France,Oil & Gas,14739.2,1,0,06/04/2025
+51,Taylor-White,North Korea,Manufacturing,56481.68,1,1,20/08/2024
+52,Baxter Inc,India,Consulting,42298.35,1,0,20/06/2024
+53,"Garcia, Pearson and Fernandez",UK,Manufacturing,36461.56,0,1,28/10/2020
+54,House and Sons,Germany,Real Estate,62233.53,0,0,11/02/2022
+55,Tucker-Lewis,Sudan,Crypto Exchange,70619.99,1,0,10/02/2024
+56,Martin Inc,India,Finance,68625.6,1,1,08/01/2024
+57,House-Glover,Sudan,Manufacturing,33215.65,1,0,16/02/2023
+58,Horton-Cross,Iran,Retail,43815.75,0,0,05/06/2025
+59,"Higgins, Moore and Phillips",Syria,Consulting,56625.27,1,1,13/03/2021
+60,"Fitzgerald, Brown and Edwards",Sudan,Consulting,69510.9,0,0,15/02/2021
+61,"Woods, Calhoun and Schmidt",India,Retail,40416.52,1,1,08/03/2021
+62,"Miller, Lopez and Larson",Canada,Oil & Gas,46286.82,1,1,13/09/2022
+63,Wilson-Zamora,Germany,Oil & Gas,27873.3,0,0,17/10/2022
+64,"Wheeler, Harvey and Barnes",Afghanistan,Crypto Exchange,26075.87,0,0,31/08/2025
+65,"Mills, Donovan and Harris",Germany,Real Estate,66250.52,0,0,17/05/2023
+66,Baker and Sons,Mexico,Oil & Gas,77124.8,0,0,03/04/2023
+67,Stewart-Walton,Turkey,Manufacturing,48559.8,0,0,26/04/2021
+68,Ellis PLC,Mexico,Manufacturing,70070.66,0,1,20/07/2021
+69,Medina PLC,North Korea,Crypto Exchange,57232.72,0,0,15/12/2022
+70,Mahoney Inc,India,Real Estate,37097.6,1,0,11/10/2022
+71,Mitchell-Kim,UK,Real Estate,57227.91,0,1,27/04/2025
+72,"Turner, Riggs and Roman",India,Finance,80760.73,1,1,14/03/2025
+73,Contreras PLC,Brazil,Manufacturing,49283.48,0,1,01/04/2023
+74,"Garcia, Humphrey and Baker",Mexico,Manufacturing,81292.87,0,0,11/08/2021
+75,"Tran, Nelson and Jacobs",Turkey,Gambling,2394.9,0,1,14/08/2023
+76,Watts LLC,Canada,Manufacturing,66438.05,0,1,31/12/2024
+77,King-Odonnell,Afghanistan,Finance,51740.94,1,1,17/02/2021
+78,Walters LLC,Mexico,Retail,44019.85,1,0,27/01/2021
+79,Cook and Sons,Canada,Finance,51835.22,1,0,05/12/2022
+80,Figueroa PLC,Canada,Manufacturing,10248.62,0,1,03/05/2024
+81,"Smith, Jones and Ware",Afghanistan,Crypto Exchange,45606.56,1,0,20/12/2021
+82,"Johnson, Wood and Tran",UK,Gambling,57142.25,1,1,10/05/2024
+83,Williams LLC,Canada,Retail,79557.88,0,1,14/01/2021
+84,Clark-Wright,USA,Gambling,39634.6,0,0,29/07/2021
+85,Deleon-Henson,Brazil,Finance,33830.13,1,0,27/02/2024
+86,"Brady, Frost and Young",Germany,Oil & Gas,39964.86,1,0,30/01/2022
+87,Keith Inc,North Korea,Manufacturing,68308.04,0,0,24/03/2022
+88,"Middleton, Patton and Jenkins",USA,Real Estate,56575.02,0,1,24/10/2022
+89,Moore-Haynes,Syria,Retail,39404.8,1,1,15/12/2023
+90,Garrison and Sons,Canada,Retail,60265.35,1,0,26/05/2022
+91,Bailey-Hoover,UK,Crypto Exchange,51941.55,0,1,21/08/2022
+92,Johnson and Sons,France,Consulting,69372.9,0,0,02/02/2024
+93,Ramirez-Jones,USA,Finance,35958.94,0,1,28/01/2023
+94,May-Ross,Iran,Finance,43446.76,1,1,05/04/2025
+95,Crosby-Wilson,France,Crypto Exchange,42157.84,1,0,03/12/2022
+96,Carpenter LLC,France,Manufacturing,20729.7,1,0,09/01/2021
+97,Carlson LLC,USA,Oil & Gas,55922.41,0,0,15/05/2023
+98,Obrien-Dixon,USA,Oil & Gas,55221.11,1,1,23/12/2023
+99,"Lee, Williams and Graham",USA,Crypto Exchange,50102.27,0,0,14/02/2025
+100,"Mcdaniel, Bentley and Mclaughlin",UK,Crypto Exchange,45308.26,1,1,18/05/2022
+101,Reynolds-Rush,Afghanistan,Manufacturing,21692.59,1,1,05/07/2023
+102,"Edwards, Charles and Cortez",UK,Consulting,41587.09,1,0,04/04/2023
+103,"Parker, Ortiz and Powell",North Korea,Gambling,43145.71,0,1,20/03/2023
+104,"Martinez, Fisher and Bentley",Iran,Manufacturing,33954.45,1,1,07/03/2022
+105,"Carroll, Sullivan and Bass",Germany,Real Estate,46774.29,1,0,15/04/2023
+106,Clark-Floyd,India,Crypto Exchange,58081.02,1,0,11/06/2023
+107,Ramos-Lowe,Germany,Consulting,87723.72,0,0,18/01/2025
+108,Leon-Moyer,Brazil,Consulting,53491.56,0,1,22/02/2022
+109,"Miller, Robertson and Schultz",Mexico,Real Estate,55151.01,0,1,21/07/2023
+110,Cardenas and Sons,Turkey,Gambling,48511.08,1,1,05/05/2023
+111,Drake and Sons,India,Gambling,11624.58,0,0,27/11/2020
+112,Sanchez Group,India,Consulting,49469.72,0,1,27/04/2021
+113,Perry-Soto,India,Retail,51204.6,1,1,10/05/2022
+114,"Horton, Snyder and Sanchez",Sudan,Consulting,99264.84,1,1,30/09/2020
+115,Osborne and Sons,South Africa,Oil & Gas,46152.78,0,1,13/03/2022
+116,"Holmes, Williams and Wright",France,Finance,56030.95,0,1,25/09/2021
+117,Anderson-Marshall,Turkey,Real Estate,49305.76,0,0,21/03/2025
+118,"Larson, Dodson and Vance",UK,Gambling,26626.44,0,0,29/12/2024
+119,Rivas-Kelley,Syria,Retail,72856.46,0,0,20/01/2022
+120,"Hensley, Cole and Walton",South Africa,Manufacturing,65038.66,1,1,22/01/2023
+121,"Washington, Allen and Gonzales",Canada,Crypto Exchange,65820.64,1,1,17/02/2023
+122,Nelson LLC,India,Crypto Exchange,31812.25,0,0,18/04/2025
+123,Taylor and Sons,Canada,Manufacturing,78055.89,1,0,17/12/2023
+124,"Hernandez, Lewis and Perry",Syria,Oil & Gas,21962.98,0,0,08/07/2023
+125,"Owens, Brown and Wall",Canada,Manufacturing,61737.14,1,0,06/01/2024
+126,"Shah, Smith and Gilmore",France,Oil & Gas,93809.11,1,1,06/08/2025
+127,Woods-Bender,Mexico,Consulting,30189.27,1,0,29/03/2023
+128,Castaneda-Ashley,Germany,Oil & Gas,38674.05,1,1,06/04/2024
+129,"Adkins, Payne and Morrison",France,Crypto Exchange,51993.03,1,1,30/07/2022
+130,Robinson-Graham,UK,Crypto Exchange,39930.49,1,1,12/12/2020
+131,Rogers-Shelton,North Korea,Gambling,18986.73,0,1,21/02/2024
+132,"Martin, Mcdonald and Anderson",Brazil,Real Estate,51371.26,0,0,30/03/2025
+133,Meadows PLC,Syria,Crypto Exchange,28753.93,1,0,02/07/2025
+134,"Johnson, Day and Taylor",Germany,Crypto Exchange,59471.85,0,1,17/08/2024
+135,Williams Group,India,Real Estate,31611.52,1,1,27/06/2023
+136,Gibson LLC,Iran,Crypto Exchange,80998.69,1,1,04/12/2023
+137,Walton-Decker,Canada,Retail,34334.93,1,1,05/11/2022
+138,Ruiz Ltd,Iran,Real Estate,43558.77,1,1,15/04/2025
+139,Cooke LLC,USA,Consulting,66270.34,0,1,10/08/2022
+140,"Jones, Bernard and Williams",Sudan,Gambling,25382.71,1,1,18/12/2020
+141,Gonzalez Inc,Iran,Consulting,54549.2,1,1,30/12/2021
+142,Martinez Ltd,Germany,Finance,76142.86,1,0,03/09/2021
+143,"Gould, Marshall and Scott",Mexico,Retail,17850.34,1,0,03/11/2023
+144,Obrien Ltd,North Korea,Consulting,53692.68,0,1,03/09/2021
+145,Oconnell Inc,Syria,Retail,55197.66,1,1,15/08/2025
+146,Hickman PLC,Brazil,Crypto Exchange,65636.46,1,1,23/11/2023
+147,David-Gonzalez,Brazil,Consulting,25260.99,1,1,07/10/2022
+148,Terry LLC,Afghanistan,Manufacturing,23590.87,1,0,24/09/2021
+149,"Patton, Reed and Patterson",Germany,Retail,60438.83,1,0,08/11/2023
+150,Hunter LLC,UK,Manufacturing,55939.69,0,0,22/10/2020
+151,Short-Garcia,Sudan,Crypto Exchange,55009.86,0,0,13/10/2023
+152,"Snow, Stevens and Hernandez",Sudan,Finance,56928.96,1,0,14/03/2022
+153,"Boyd, Santos and Gilbert",Mexico,Crypto Exchange,36399.51,1,1,12/04/2025
+154,Marshall-Petersen,France,Real Estate,54645.07,0,0,25/12/2022
+155,Christian-Rivas,France,Finance,55861.45,1,0,09/06/2021
+156,Keith-Sanchez,Mexico,Retail,35712.97,1,1,26/08/2024
+157,"Bishop, Gray and Johnson",India,Crypto Exchange,87315.49,0,0,19/06/2023
+158,Freeman LLC,North Korea,Gambling,59476.66,0,0,24/11/2022
+159,Ramirez-Carlson,Brazil,Consulting,26173.93,1,0,19/01/2023
+160,"Smith, Vaughan and Miller",Turkey,Real Estate,63131.07,0,1,27/02/2024
+161,Peters-Allen,USA,Oil & Gas,30506.37,0,1,01/10/2024
+162,"Joseph, West and Smith",Brazil,Oil & Gas,65741.69,0,1,16/03/2023
+163,Sullivan and Sons,Syria,Gambling,73171.91,1,1,22/04/2023
+164,"Perkins, Kennedy and Schmidt",India,Gambling,33586.35,1,0,26/04/2024
+165,"Pierce, Bell and Chavez",USA,Manufacturing,69267.52,1,1,23/04/2023
+166,Hall-Griffith,Sudan,Oil & Gas,58255.62,1,1,21/05/2023
+167,Newton Ltd,Iran,Oil & Gas,66441.2,1,0,11/04/2022
+168,Robinson Group,South Africa,Crypto Exchange,87935.86,1,1,20/01/2023
+169,"Lawrence, Wolf and Carlson",Brazil,Gambling,45092.24,1,0,22/07/2021
+170,Phillips LLC,Turkey,Crypto Exchange,34925.28,0,0,24/03/2022
+171,Smith-Ferguson,Germany,Consulting,32209.71,1,0,13/01/2023
+172,Mccann PLC,Germany,Oil & Gas,33683.79,1,1,09/03/2023
+173,"Raymond, Little and Mullins",France,Retail,48457.97,0,1,28/07/2021
+174,Andrews Group,Sudan,Consulting,56823.04,0,1,09/10/2024
+175,Peterson-Sheppard,UK,Real Estate,55533.82,1,1,06/11/2022
+176,Wilson-Jones,India,Real Estate,66543.66,1,1,18/11/2024
+177,Ray Ltd,Afghanistan,Gambling,50260.04,1,0,26/02/2021
+178,Hernandez PLC,North Korea,Crypto Exchange,79070.68,1,0,14/04/2023
+179,Mcknight Inc,Germany,Finance,44706.86,0,0,12/06/2025
+180,Obrien-Gibbs,Germany,Oil & Gas,104403.38,1,1,15/08/2022
+181,"James, Kerr and Evans",North Korea,Crypto Exchange,62513.35,1,0,07/05/2024
+182,Carroll-Brown,Brazil,Finance,32856.85,1,0,18/07/2021
+183,Garrett LLC,Germany,Finance,28582.15,1,0,23/05/2021
+184,Allen PLC,Iran,Gambling,59649.45,0,1,04/05/2021
+185,Smith Group,North Korea,Retail,45530.74,1,1,11/09/2024
+186,Johnson-Roberts,South Africa,Oil & Gas,64280.01,1,0,08/02/2023
+187,"Heath, Jones and Hall",Iran,Gambling,59464.75,1,0,13/12/2022
+188,"Lawrence, Lara and Gonzalez",USA,Manufacturing,48543.42,1,1,04/09/2021
+189,"Walker, Hernandez and Baker",North Korea,Retail,33064.13,0,0,28/11/2021
+190,Brown LLC,France,Gambling,19703.06,0,0,17/07/2025
+191,Gonzales-Harrison,North Korea,Consulting,41069.7,0,1,15/04/2023
+192,"Powell, Nelson and Fernandez",South Africa,Oil & Gas,67127.98,1,1,04/06/2024
+193,George Group,Afghanistan,Retail,54281.87,0,0,11/06/2023
+194,"Wright, Davis and Hayden",UK,Crypto Exchange,25085.22,1,0,05/08/2025
+195,"Sampson, Key and Chambers",Syria,Crypto Exchange,53463.62,0,0,29/12/2022
+196,"Williams, Avila and Ruiz",Syria,Retail,57706.35,1,1,17/06/2024
+197,White-Richards,Germany,Oil & Gas,32322.85,1,0,18/11/2024
+198,Harrison Group,Sudan,Gambling,53074.5,1,1,15/07/2023
+199,Santiago-Hodge,North Korea,Crypto Exchange,51164.17,1,0,04/07/2023
+200,Steele-Roberts,India,Manufacturing,27140.59,0,0,09/02/2024
+201,"Johnson, Miller and King",Canada,Gambling,57155.75,0,0,08/09/2021
+202,Hancock-Bryan,Iran,Finance,61215.69,1,1,16/09/2020
+203,"Booth, Murray and Brown",South Africa,Manufacturing,71661.02,1,1,09/02/2025
+204,Dean-Jimenez,Germany,Consulting,71076.04,1,1,17/06/2024
+205,Harris PLC,South Africa,Manufacturing,22446.61,0,1,25/10/2021
+206,Kim-Wolfe,Germany,Real Estate,31243.5,1,0,25/09/2021
+207,Dudley PLC,North Korea,Crypto Exchange,60300.71,0,1,26/09/2022
+208,"Moore, Pierce and Tran",Mexico,Retail,60275.72,0,1,29/06/2021
+209,Gay Inc,Turkey,Oil & Gas,60300.95,1,0,16/08/2024
+210,Holland and Sons,Mexico,Consulting,127054.63,1,0,09/12/2024
+211,"Carter, Thornton and Perry",South Africa,Real Estate,61417.81,1,1,21/10/2024
+212,Sanchez-Arnold,Brazil,Manufacturing,72711.31,0,1,18/12/2023
+213,Weeks PLC,India,Oil & Gas,69080.04,1,1,11/11/2021
+214,Hill Group,USA,Retail,63027.83,1,0,04/08/2023
+215,"Adams, Smith and Barber",Brazil,Gambling,43694.62,1,0,10/09/2025
+216,"Duarte, Burns and Hernandez",France,Consulting,65179.38,0,1,13/04/2025
+217,Reed-Arnold,India,Retail,34543.5,0,1,28/04/2025
+218,Gibson-Morris,Mexico,Oil & Gas,45263.63,1,0,22/04/2022
+219,"Allen, Reyes and Chase",Sudan,Gambling,40292.73,0,1,12/03/2024
+220,Flores Group,South Africa,Oil & Gas,51637.48,0,0,11/12/2023
+221,Mcneil-Sparks,UK,Crypto Exchange,96293.17,0,1,29/12/2021
+222,Hanna-Martinez,Turkey,Retail,12654.7,1,0,11/07/2023
+223,Sawyer Group,Sudan,Manufacturing,63725.2,1,0,19/07/2021
+224,"Lozano, Smith and Thomas",UK,Finance,17745.68,1,1,05/01/2022
+225,Harrison LLC,Turkey,Gambling,40561.36,1,1,31/07/2023
+226,"Schwartz, Santos and Christian",South Africa,Crypto Exchange,71779.01,1,0,28/03/2025
+227,Finley-Sims,India,Crypto Exchange,51285.6,0,0,07/11/2024
+228,"Johnson, Jones and Welch",Afghanistan,Consulting,28445.1,1,1,22/02/2023
+229,Francis Group,USA,Retail,35693.93,1,1,15/07/2021
+230,"Padilla, Garcia and Jackson",USA,Oil & Gas,63591.95,0,1,01/04/2023
+231,Williams Inc,Turkey,Oil & Gas,35392.67,1,1,13/03/2023
+232,Brooks-Thomas,Turkey,Consulting,54329.17,1,1,21/03/2025
+233,Knight-Sparks,USA,Crypto Exchange,50911.44,0,1,23/02/2022
+234,Miller Group,Sudan,Consulting,36967.99,0,1,01/10/2022
+235,Durham-Thomas,Germany,Oil & Gas,92878.88,1,1,15/08/2024
+236,"King, Scott and Smith",UK,Finance,62678.38,1,0,28/08/2024
+237,Byrd-Moore,Syria,Real Estate,9497.15,0,1,16/06/2024
+238,Huerta-Evans,North Korea,Oil & Gas,53729.09,0,0,23/04/2024
+239,"Wright, Bruce and Gonzalez",India,Finance,36764.27,0,1,22/12/2023
+240,Rodriguez-James,France,Gambling,67048.67,1,1,03/10/2023
+241,"Phillips, Lyons and Johnson",UK,Manufacturing,34149.59,1,1,25/01/2024
+242,Smith-Grimes,Brazil,Oil & Gas,47705.27,0,0,12/02/2021
+243,"Mcgee, Wall and Leach",Sudan,Gambling,60099.75,0,0,28/08/2022
+244,"Pham, Robinson and Lee",India,Manufacturing,67315.1,0,1,31/10/2022
+245,"Campos, Saunders and Becker",Syria,Gambling,25994.07,0,0,11/11/2021
+246,"Davis, Burton and Williams",Brazil,Retail,43309.98,1,1,13/06/2024
+247,Riley Ltd,Brazil,Consulting,40501.09,0,0,26/10/2021
+248,Browning LLC,Turkey,Consulting,36933.42,0,0,26/03/2024
+249,Gonzalez PLC,Syria,Manufacturing,85309.08,1,0,24/10/2023
+250,"Shaw, Nelson and Martin",South Africa,Finance,58099.63,0,1,19/10/2024
+251,Francis-Morgan,UK,Gambling,24782.32,1,1,05/09/2021
+252,Mccarty-Taylor,UK,Retail,68357.24,1,1,14/08/2022
+253,"Ramsey, Whitney and Coffey",UK,Finance,92443.12,0,1,10/06/2025
+254,Davis-Foster,Brazil,Gambling,70649.31,1,1,13/12/2022
+255,"Martinez, Richardson and Curry",South Africa,Gambling,19612.6,0,1,06/12/2022
+256,"James, Little and Watson",USA,Oil & Gas,40315.32,0,0,09/09/2022
+257,Johnson-Henson,India,Real Estate,75338.22,1,1,23/06/2025
+258,Herman-Walker,Iran,Consulting,35846.61,1,0,28/03/2021
+259,"Colon, Blankenship and Turner",Mexico,Retail,58876.39,1,1,04/03/2024
+260,Taylor Inc,France,Crypto Exchange,65492.68,1,0,16/04/2023
+261,Wilson-Young,UK,Crypto Exchange,31461.39,1,0,10/04/2025
+262,Price LLC,UK,Manufacturing,48809.49,0,1,18/04/2025
+263,Matthews-Barber,France,Oil & Gas,14825.35,0,1,25/03/2024
+264,"Garcia, Burns and Russell",Germany,Finance,29512.25,0,1,30/01/2023
+265,Vaughn and Sons,Brazil,Consulting,44948.64,0,0,21/06/2024
+266,Sampson-Foley,Syria,Real Estate,25044.34,1,0,18/07/2021
+267,"Richardson, Winters and Newman",Afghanistan,Oil & Gas,82648.23,1,1,20/03/2021
+268,Hill-Donaldson,France,Manufacturing,21397.17,1,0,26/07/2024
+269,Bates Ltd,Syria,Crypto Exchange,41199.11,1,1,18/11/2020
+270,Buchanan and Sons,North Korea,Consulting,52614.81,0,1,09/10/2021
+271,"Harris, Gallegos and Spencer",Turkey,Manufacturing,78825.47,1,1,08/09/2025
+272,Li and Sons,UK,Gambling,21282.76,1,1,30/06/2023
+273,Kramer PLC,North Korea,Crypto Exchange,73263.28,1,0,21/09/2020
+274,Garrison-Thomas,Mexico,Real Estate,50204.66,0,0,21/10/2021
+275,"King, Thompson and Guerrero",UK,Oil & Gas,30369.83,1,1,02/12/2020
+276,Smith and Sons,North Korea,Finance,59242.07,0,0,15/06/2023
+277,Thompson Inc,Afghanistan,Oil & Gas,53981.19,0,0,11/10/2021
+278,"Fisher, Wilson and Brown",Sudan,Finance,37995.66,1,1,06/07/2024
+279,Palmer-Rodriguez,Brazil,Consulting,51396.04,0,1,26/12/2024
+280,Dougherty Inc,UK,Manufacturing,42293.73,1,1,19/02/2025
+281,Ellis-Maynard,Afghanistan,Retail,52270.35,1,0,20/03/2021
+282,Boone-Simmons,South Africa,Oil & Gas,63242.61,0,1,14/08/2021
+283,Joseph-Wallace,North Korea,Real Estate,81720.34,1,0,22/05/2021
+284,Franklin-Jones,India,Gambling,25243.69,0,0,15/01/2023
+285,"Schultz, Kelley and Nguyen",USA,Oil & Gas,92660.67,0,0,19/03/2025
+286,Chavez-Jacobs,UK,Retail,10958.24,0,1,18/07/2021
+287,"Wilson, Pena and Rich",Sudan,Finance,46964.3,0,0,22/05/2025
+288,"Glenn, Jordan and Beasley",USA,Crypto Exchange,61766.34,0,0,21/03/2024
+289,Wilcox-Ross,Brazil,Finance,55619.84,0,1,05/07/2021
+290,Simmons-Ortega,USA,Finance,37546.01,0,1,19/11/2023
+291,Mcdaniel Group,France,Finance,45837.55,0,0,09/04/2021
+292,Decker Inc,Syria,Retail,40139.98,1,0,16/05/2024
+293,Garner LLC,Mexico,Real Estate,38212.7,0,0,22/10/2021
+294,"Brown, Frye and Hoffman",Afghanistan,Retail,66992.04,0,1,27/09/2021
+295,Gomez-Ortega,Turkey,Manufacturing,57140.31,0,1,19/04/2024
+296,"Williams, Roberts and Edwards",South Africa,Real Estate,36141.81,0,1,31/07/2021
+297,"Romero, Moore and Olson",Turkey,Crypto Exchange,67992,0,1,15/08/2021
+298,Bruce-Richardson,South Africa,Retail,56145.99,0,1,26/01/2023
+299,"Perez, Patterson and Hoffman",USA,Consulting,66257.24,1,0,08/06/2025
+300,Lynch Ltd,South Africa,Oil & Gas,62592.58,0,0,22/12/2022
+301,White Ltd,Brazil,Finance,33420.1,0,0,30/04/2023
+302,Bell-White,Afghanistan,Real Estate,38796.38,1,1,02/12/2021
+303,"Sandoval, Jones and Figueroa",South Africa,Consulting,64945.87,0,0,17/12/2020
+304,Reese and Sons,USA,Crypto Exchange,62207.41,1,1,25/11/2023
+305,Chavez-Moore,Canada,Crypto Exchange,49581.97,1,1,09/05/2023
+306,"Nguyen, Pugh and Carlson",USA,Oil & Gas,52346.55,1,1,23/02/2021
+307,Moore PLC,Germany,Manufacturing,75553.3,1,1,14/02/2021
+308,"Miller, Ramos and Coleman",Brazil,Gambling,38168.57,1,0,17/06/2024
+309,Nelson-Fischer,UK,Oil & Gas,60941.95,0,0,01/09/2021
+310,Jordan-Campbell,USA,Manufacturing,45956.15,0,1,02/11/2024
+311,"Estrada, Williams and Foster",North Korea,Real Estate,45646.38,0,0,02/03/2021
+312,Harris and Sons,Mexico,Real Estate,71975.54,0,1,13/11/2021
+313,Roberts-Wilson,Brazil,Consulting,66508.33,0,1,06/12/2024
+314,"Jordan, Anderson and Patel",Mexico,Gambling,66270.19,1,0,28/08/2022
+315,"Hansen, Barnett and Gomez",Mexico,Crypto Exchange,76109.58,0,1,29/01/2024
+316,"Williams, Smith and Morse",Sudan,Manufacturing,50420.08,1,1,13/05/2023
+317,"Patterson, Sullivan and Bowman",North Korea,Gambling,63639.06,0,1,01/03/2023
+318,Sullivan LLC,USA,Retail,43794.66,1,0,28/02/2022
+319,"Stevens, Norris and Cox",Syria,Gambling,56483.33,1,1,31/05/2024
+320,Sanchez PLC,Brazil,Retail,47397.14,0,0,09/02/2024
+321,"Miller, Harrell and Reese",Mexico,Consulting,51939.92,0,0,02/08/2022
+322,Maxwell-Jones,Germany,Retail,61903.14,0,0,02/09/2021
+323,"Hicks, Bullock and Bailey",India,Consulting,33635.59,1,1,15/12/2021
+324,Garcia LLC,Syria,Real Estate,91847.75,1,1,18/05/2022
+325,Morrison Ltd,France,Manufacturing,29879.65,0,0,05/05/2021
+326,Bean Ltd,Syria,Retail,25716.23,0,1,26/11/2024
+327,Webster-Wolf,South Africa,Consulting,73162.22,1,1,08/07/2024
+328,"Glass, Cunningham and Reid",India,Gambling,65833.25,0,0,14/06/2023
+329,"Stewart, Gonzales and Harrison",Brazil,Consulting,62482.4,0,1,11/04/2023
+330,Vargas-Bell,UK,Oil & Gas,62566.91,1,0,01/05/2021
+331,Murray-Johnson,Sudan,Consulting,49755.06,0,0,02/11/2023
+332,Jones-Lin,Sudan,Gambling,32054.91,0,0,20/06/2021
+333,"Wheeler, Cruz and Carpenter",France,Gambling,51516.09,1,1,18/01/2021
+334,Stout-Armstrong,North Korea,Retail,36456.77,1,1,20/04/2022
+335,Jacobs-Mason,Syria,Finance,69502.39,1,0,24/03/2021
+336,Garcia-Nolan,Turkey,Real Estate,47058.85,0,1,16/08/2023
+337,"Miller, Lucas and Williams",USA,Retail,33490.06,1,0,04/06/2024
+338,Warren-Bishop,South Africa,Manufacturing,43572.28,1,1,18/10/2023
+339,Hardin-Hughes,Mexico,Consulting,58258.63,1,1,31/07/2023
+340,"Harper, Mccormick and Holland",North Korea,Consulting,38725.51,0,1,05/04/2021
+341,Davis-Gregory,Syria,Oil & Gas,33555.59,1,0,12/02/2023
+342,Cummings-Douglas,India,Manufacturing,54873.74,0,1,24/12/2021
+343,Miller-Alvarado,Mexico,Consulting,54899.33,0,1,04/09/2023
+344,Ponce-Hale,USA,Gambling,39861.14,1,0,13/01/2024
+345,Larson Inc,Brazil,Finance,40579.23,0,0,02/05/2023
+346,"Bennett, Conner and Li",Turkey,Crypto Exchange,54641,1,1,06/03/2025
+347,Lucas Group,Germany,Finance,21038.31,0,0,09/01/2025
+348,Smith-Parker,Syria,Gambling,21850.72,0,0,10/07/2022
+349,Meza-Tucker,Mexico,Finance,35631.12,0,0,17/08/2022
+350,Moore LLC,France,Oil & Gas,45731.06,1,1,24/07/2021
+351,"Wise, Conley and Stephenson",UK,Real Estate,56218.15,1,0,08/01/2021
+352,"Rogers, Miranda and Anderson",South Africa,Manufacturing,79507.12,1,1,27/11/2023
+353,Martin Ltd,UK,Gambling,67153.19,1,0,09/02/2022
+354,"Kim, Jenkins and Rhodes",Brazil,Manufacturing,46801.23,1,1,20/09/2022
+355,Bishop-Goodwin,South Africa,Retail,49619.68,0,1,08/07/2024
+356,Ferguson LLC,USA,Gambling,29949.41,0,0,09/09/2024
+357,Richardson PLC,Mexico,Consulting,49629.74,1,0,12/06/2024
+358,Hammond-Strickland,South Africa,Crypto Exchange,44226.83,1,1,23/12/2024
+359,"Barnes, Martin and Gonzalez",Turkey,Finance,56454.37,0,1,16/11/2021
+360,Williams-Castillo,North Korea,Real Estate,33455.38,0,0,10/11/2023
+361,"Villa, Dawson and Black",Iran,Crypto Exchange,60386.93,1,1,05/10/2021
+362,Miller-Martin,Turkey,Finance,80654.78,1,1,09/07/2024
+363,"Hernandez, Kim and Potts",Canada,Gambling,47824.8,1,1,03/08/2022
+364,Wilkerson-Arias,France,Real Estate,58034.23,0,1,25/03/2024
+365,Sanders LLC,North Korea,Real Estate,63802.88,0,1,15/09/2022
+366,Vang-Brooks,Afghanistan,Gambling,41975.59,0,1,09/12/2020
+367,Galvan-Combs,North Korea,Finance,54481.85,1,1,21/07/2023
+368,Taylor LLC,UK,Consulting,50251.85,0,0,19/09/2024
+369,"Guerra, Blake and Harrison",Afghanistan,Consulting,51953.52,1,0,29/09/2020
+370,Smith and Sons,UK,Manufacturing,34539.8,1,1,21/12/2021
+371,"Bentley, Lynch and Henderson",Iran,Real Estate,50490.2,1,0,25/02/2023
+372,Turner Inc,Sudan,Real Estate,59959.97,1,0,23/09/2022
+373,Fowler-Dean,Sudan,Finance,79022.87,0,0,27/03/2021
+374,Copeland Group,Afghanistan,Manufacturing,69185.42,0,1,05/04/2025
+375,Chen PLC,Canada,Finance,93063.65,1,0,04/10/2022
+376,"Thomas, Patterson and Mendez",Syria,Finance,34653.05,0,1,30/09/2022
+377,"Butler, Beck and Miller",Iran,Consulting,67446.41,1,0,08/10/2023
+378,Ashley PLC,South Africa,Gambling,53666.84,1,0,06/01/2025
+379,"Spencer, Myers and Harrison",Turkey,Crypto Exchange,93796.06,1,1,28/12/2023
+380,King-Smith,Canada,Crypto Exchange,33834.03,1,1,10/04/2021
+381,Allen-Sandoval,South Africa,Gambling,33205.56,1,1,01/08/2021
+382,"Moss, Cook and Williams",Syria,Crypto Exchange,38012.15,0,1,06/05/2025
+383,Li-Thompson,Iran,Oil & Gas,7522.09,1,0,26/08/2024
+384,"Mendoza, White and Taylor",Germany,Manufacturing,39484.9,1,0,04/08/2024
+385,Carter Inc,France,Finance,34817.35,1,1,25/05/2022
+386,Stewart LLC,Canada,Finance,53007.88,1,0,31/01/2025
+387,Hays-Daniels,Canada,Crypto Exchange,56835.12,1,1,09/11/2022
+388,Mullins and Sons,Canada,Retail,87523.42,1,0,18/02/2023
+389,Atkins-Williams,India,Real Estate,69008.48,0,1,11/07/2023
+390,Martinez-Richardson,North Korea,Real Estate,38461.93,0,0,07/02/2024
+391,"Gonzales, Huber and Morgan",Brazil,Manufacturing,32031.71,1,0,16/04/2022
+392,Holt-Richardson,Syria,Retail,59838.38,1,1,12/02/2025
+393,Owen-Acosta,Germany,Finance,23595.34,1,1,16/05/2021
+394,Morrison-Short,Mexico,Retail,86629.18,0,0,04/05/2025
+395,Morris-Miller,Afghanistan,Crypto Exchange,73588.8,0,1,20/03/2023
+396,Griffin-Robbins,North Korea,Gambling,40616.49,0,1,12/02/2022
+397,"Wallace, West and Acosta",North Korea,Retail,15737.31,0,1,13/09/2023
+398,"Bolton, Hill and Whitney",UK,Oil & Gas,77077.45,0,0,10/03/2021
+399,Lambert Group,USA,Oil & Gas,47709.2,0,0,16/10/2023
+400,"Owen, Shelton and Cisneros",Germany,Finance,74756.33,1,1,30/11/2021
+401,"Gregory, Kim and Martinez",Iran,Real Estate,18111.45,0,1,16/09/2022
+402,"Diaz, Reyes and Bradley",Syria,Manufacturing,38012.5,1,0,02/01/2022
+403,"Cole, Watson and Wallace",Turkey,Retail,50104.87,1,1,09/05/2021
+404,"Taylor, Richardson and Edwards",Iran,Consulting,50939.61,1,1,26/01/2023
+405,Horne Inc,Germany,Retail,40998.69,1,0,14/04/2022
+406,Holmes-Mcintyre,Brazil,Crypto Exchange,62457,0,1,13/09/2021
+407,Hampton-Padilla,Syria,Retail,28647.59,1,1,11/07/2022
+408,"Mitchell, Hendricks and Henry",USA,Finance,47152.41,1,1,29/09/2021
+409,Farrell Group,UK,Finance,52405.91,0,0,03/03/2022
+410,"Wallace, Miller and Fleming",Germany,Oil & Gas,60288.78,0,1,02/06/2023
+411,"Reed, Brown and Daniels",Sudan,Retail,64232.3,0,0,02/04/2023
+412,Joseph Ltd,Brazil,Gambling,27507.16,1,1,07/03/2022
+413,Hicks-Martinez,Afghanistan,Retail,19317.72,0,1,30/05/2022
+414,Young Group,Brazil,Retail,75553.54,1,1,03/12/2020
+415,Spencer-Wood,North Korea,Real Estate,56646.28,1,1,23/05/2025
+416,Salazar Inc,Germany,Oil & Gas,35030.27,1,1,05/04/2021
+417,Sanders-Love,Syria,Oil & Gas,81023.04,1,1,09/10/2024
+418,"Jenkins, Ortiz and Andrews",Canada,Gambling,52313.49,0,1,07/10/2021
+419,Day-Cole,North Korea,Consulting,73585.94,0,1,06/02/2025
+420,Anderson-Calderon,Brazil,Manufacturing,51350.37,0,1,22/05/2025
+421,"Matthews, Saunders and Anderson",UK,Gambling,91214.96,1,1,23/12/2024
+422,Guerra PLC,Mexico,Consulting,85106.82,0,1,01/01/2022
+423,Martin-Morris,Brazil,Oil & Gas,45020.72,0,1,14/08/2022
+424,Meza-Stone,Mexico,Consulting,69431.42,1,0,12/02/2023
+425,King Ltd,North Korea,Consulting,62907.52,1,0,21/05/2025
+426,Martinez-Turner,Iran,Finance,77372.63,1,0,28/03/2025
+427,Shaw and Sons,Syria,Manufacturing,30701.53,0,1,22/08/2025
+428,Jackson PLC,Brazil,Consulting,63721.03,0,0,28/07/2023
+429,"Williams, Shields and Miller",UK,Oil & Gas,71168.49,1,1,09/08/2025
+430,Curtis-Wang,South Africa,Manufacturing,14825.21,0,1,30/03/2024
+431,"Fowler, Jimenez and Burton",India,Real Estate,26334.83,1,0,01/03/2023
+432,"Frye, Webb and Ballard",North Korea,Retail,9215.36,0,1,26/02/2024
+433,Chavez-Barker,Turkey,Consulting,44611.86,0,1,17/01/2022
+434,Perry-Marshall,France,Gambling,64350.85,1,0,05/08/2023
+435,"Thomas, Hensley and Flores",Mexico,Gambling,80047.14,1,0,22/08/2023
+436,Anderson-Wood,North Korea,Finance,51481.9,0,1,23/06/2025
+437,Flores Group,Syria,Oil & Gas,82572.31,0,1,28/09/2021
+438,Cole-Thomas,UK,Real Estate,22397.97,0,1,17/02/2021
+439,Dougherty-Lin,Canada,Gambling,15932.35,0,0,04/04/2024
+440,Estes and Sons,France,Real Estate,48889.05,0,0,27/06/2023
+441,"Griffith, Lee and Moore",Sudan,Finance,57681.31,0,1,29/01/2025
+442,Jimenez-Parker,Iran,Real Estate,49346.11,1,1,24/11/2020
+443,Landry PLC,France,Finance,8651.16,0,0,03/08/2024
+444,Lewis LLC,Afghanistan,Consulting,48217.6,1,1,11/02/2021
+445,Campbell PLC,France,Consulting,23910.61,0,0,14/09/2024
+446,Herrera-Boone,Brazil,Manufacturing,63393.45,1,1,13/05/2024
+447,Khan Ltd,UK,Real Estate,57331.96,0,0,24/10/2023
+448,Diaz-Morales,France,Finance,31202.4,1,0,20/07/2025
+449,"Lee, Tran and Jones",USA,Manufacturing,39722.66,0,1,27/12/2024
+450,Duran-Ramirez,Syria,Finance,28815.73,1,0,17/09/2021
+451,Hester Group,Brazil,Gambling,48746.42,0,1,16/11/2023
+452,Grant-Diaz,Sudan,Gambling,69102.85,0,1,05/12/2021
+453,Morrison Group,Mexico,Manufacturing,30285.48,0,0,14/12/2024
+454,Williams and Sons,Syria,Real Estate,60080.93,0,0,14/07/2023
+455,Stone-Hernandez,North Korea,Retail,39394.85,1,0,31/01/2025
+456,Murphy PLC,France,Consulting,34142.54,0,1,30/05/2023
+457,Long PLC,Canada,Gambling,47859.39,1,1,31/03/2023
+458,"Rogers, Clayton and Patel",Sudan,Consulting,29295.15,1,1,27/06/2025
+459,Wells-Smith,North Korea,Retail,38927.01,0,1,09/07/2023
+460,"Rodriguez, Butler and Parker",India,Oil & Gas,26042.44,1,0,04/12/2020
+461,"Wells, Coffey and Patton",Brazil,Finance,89294.5,1,1,15/08/2025
+462,"Perez, Williams and Castillo",Germany,Real Estate,50705.27,1,0,27/02/2025
+463,"Griffith, Hampton and James",France,Real Estate,36005.49,0,1,05/10/2022
+464,Armstrong Ltd,Sudan,Oil & Gas,54279.6,0,1,20/08/2021
+465,Smith LLC,South Africa,Crypto Exchange,47753.44,0,0,06/04/2024
+466,Gutierrez and Sons,Iran,Gambling,45580.61,1,1,10/03/2024
+467,"Hampton, Knapp and Salas",Sudan,Finance,62283.33,1,1,25/03/2021
+468,"Taylor, Clark and Nguyen",Sudan,Finance,65150.15,1,1,08/10/2024
+469,"Bennett, Frye and Stevens",South Africa,Gambling,39389.98,1,0,27/03/2025
+470,Payne-Lowe,North Korea,Consulting,38483.64,1,0,13/12/2022
+471,"Washington, Bernard and Ramirez",Sudan,Real Estate,44498.97,0,0,29/03/2023
+472,David LLC,Afghanistan,Oil & Gas,3961.58,1,1,27/02/2023
+473,"Clark, Bush and Stewart",Turkey,Retail,19696.18,0,1,01/09/2023
+474,"Peck, Pope and Hill",Syria,Gambling,77337.49,1,1,26/09/2021
+475,"Rhodes, James and Baird",Brazil,Retail,82899.35,1,0,21/08/2023
+476,Roberts LLC,Mexico,Crypto Exchange,45019.28,1,1,16/05/2021
+477,Bradshaw-Douglas,North Korea,Consulting,61531.14,1,1,10/10/2024
+478,Harris PLC,USA,Manufacturing,56225,0,0,03/01/2023
+479,"Horton, Taylor and Gilbert",India,Real Estate,111577.62,1,1,10/09/2025
+480,Sanchez Ltd,France,Finance,72391.5,0,1,20/03/2025
+481,Little Inc,Turkey,Retail,47441.65,0,0,21/07/2021
+482,Rivera-Kennedy,Syria,Real Estate,30889.19,1,1,14/11/2021
+483,Oconnell and Sons,Syria,Finance,17871.07,1,1,29/02/2024
+484,"Donovan, Johns and Woods",Syria,Consulting,54069.27,1,1,25/05/2022
+485,Morris-Brewer,Turkey,Oil & Gas,34872.99,1,1,17/06/2021
+486,"Andrews, Nichols and Sharp",USA,Retail,21554.93,1,1,06/01/2021
+487,Butler and Sons,UK,Manufacturing,37068.54,1,1,03/01/2021
+488,French-Lopez,France,Retail,28369.04,1,1,01/03/2023
+489,Smith PLC,UK,Crypto Exchange,83742.83,0,1,12/08/2021
+490,Mitchell-Hays,Syria,Consulting,67632.8,0,0,27/04/2025
+491,"Snyder, Mays and Rosales",Iran,Manufacturing,49840.55,0,0,06/09/2024
+492,Lee-Rodriguez,South Africa,Real Estate,79598.88,1,0,30/01/2022
+493,"Stevens, Scott and Lopez",India,Crypto Exchange,51547.37,1,1,27/07/2023
+494,Bradley-Todd,USA,Retail,32774.32,0,0,12/03/2022
+495,"Chase, Prince and Wilcox",Turkey,Real Estate,80462.48,1,1,30/01/2025
+496,Miller-Caldwell,Brazil,Finance,60778.2,1,1,10/04/2022
+497,Woods and Sons,Turkey,Real Estate,29255.08,1,1,04/10/2020
+498,Reyes-Griffin,Sudan,Crypto Exchange,46193.23,1,1,21/12/2022
+499,Turner-Sharp,Sudan,Gambling,32487.63,1,0,18/10/2020
+500,Valdez-Schwartz,Germany,Oil & Gas,22344.01,1,1,25/03/2021
+501,"Wilson, Parker and Sullivan",Brazil,Gambling,68523.55,1,0,22/12/2024
+502,"Carrillo, Vaughn and Fowler",Mexico,Consulting,88188.33,1,1,18/03/2023
+503,Mendez-Robinson,France,Finance,22028.65,1,0,01/11/2021
+504,Hernandez-Adkins,Afghanistan,Manufacturing,61259.38,1,1,17/11/2023
+505,Miles-Durham,UK,Gambling,36987.15,1,0,10/04/2025
+506,"Petersen, Gill and Becker",Sudan,Gambling,40257.49,1,0,25/05/2021
+507,"Griffin, Padilla and Miller",North Korea,Crypto Exchange,38152.12,0,0,01/07/2025
+508,Brown PLC,UK,Crypto Exchange,32720.18,0,0,31/12/2024
+509,Armstrong and Sons,North Korea,Consulting,50970.43,1,1,06/02/2022
+510,Bond-Ramos,North Korea,Finance,33381,0,0,13/06/2022
+511,"Aguilar, Davis and Dixon",India,Oil & Gas,55409.14,1,0,04/03/2021
+512,Anderson-Perry,France,Gambling,48995.24,1,1,01/07/2025
+513,Hansen Ltd,UK,Retail,45221.04,0,0,28/04/2023
+514,"Johnson, Scott and Smith",Turkey,Retail,31848.73,0,1,21/07/2022
+515,"Jones, Henderson and Graves",Canada,Finance,38464.57,0,1,21/04/2025
+516,Michael Inc,France,Oil & Gas,65107.82,0,1,18/09/2024
+517,Mitchell and Sons,Canada,Retail,60018.34,0,1,07/11/2021
+518,"Good, Brewer and Fisher",Mexico,Manufacturing,30448.9,1,1,15/12/2023
+519,Kane-Knox,South Africa,Oil & Gas,51986.65,0,1,24/11/2023
+520,Vega Ltd,Afghanistan,Crypto Exchange,65027.74,0,1,15/04/2025
+521,Valdez LLC,Syria,Oil & Gas,16611.89,1,0,16/09/2021
+522,Haney Group,Iran,Real Estate,60867.2,1,0,14/03/2025
+523,Luna and Sons,Syria,Consulting,36747.52,1,1,23/09/2020
+524,Good Group,North Korea,Consulting,61411.97,0,0,01/05/2025
+525,Patel-Morrow,Syria,Oil & Gas,34734.82,1,0,21/10/2022
+526,Reed-Hill,Iran,Gambling,13902.36,1,0,29/08/2021
+527,Pacheco Group,South Africa,Gambling,17449.15,1,1,31/10/2020
+528,Harris Inc,Mexico,Retail,50961.7,1,1,26/12/2020
+529,Harper-Warner,Germany,Crypto Exchange,55194.45,0,0,11/02/2021
+530,Yang Group,South Africa,Gambling,31913.67,0,1,07/06/2024
+531,Fernandez Inc,UK,Gambling,62771.85,0,1,22/11/2021
+532,"Holder, Young and Hendricks",Brazil,Crypto Exchange,16769.6,0,0,07/08/2025
+533,Ray-Barton,South Africa,Finance,48678.4,1,1,06/06/2023
+534,Turner and Sons,India,Oil & Gas,25779.68,0,0,18/02/2025
+535,Gutierrez LLC,UK,Manufacturing,36963.28,1,1,21/03/2021
+536,"Fry, Hobbs and Buck",North Korea,Manufacturing,50947.97,0,0,02/05/2024
+537,"Simpson, Compton and David",Mexico,Finance,32791.73,0,1,11/12/2023
+538,"Flores, Butler and Hernandez",USA,Oil & Gas,42308.89,0,0,26/11/2023
+539,Webster Group,Germany,Oil & Gas,70125.86,0,1,01/10/2022
+540,Turner Ltd,France,Retail,38462.16,1,0,05/12/2021
+541,Melendez-Hart,Turkey,Consulting,66713.84,1,0,30/03/2024
+542,"Moreno, Price and Scott",Turkey,Oil & Gas,27405.86,1,0,06/07/2023
+543,"Miller, Cole and Watson",India,Gambling,60596.08,0,0,04/04/2025
+544,"Calderon, Williams and Bennett",Mexico,Manufacturing,78831.37,0,1,13/01/2021
+545,Lopez PLC,Brazil,Manufacturing,567.11,0,0,15/06/2025
+546,Mendoza LLC,Canada,Oil & Gas,34062.09,0,1,12/04/2023
+547,Lewis and Sons,India,Finance,61541.44,0,1,12/09/2021
+548,"Key, Mendoza and Sanchez",Brazil,Consulting,45939.09,1,1,10/06/2022
+549,Herman-Arnold,India,Manufacturing,57422.92,0,1,09/02/2023
+550,Owens-Wong,North Korea,Finance,37920.3,1,0,29/04/2023
+551,Ward-Andrade,Germany,Crypto Exchange,51731.8,0,0,30/08/2024
+552,Lang Ltd,Afghanistan,Oil & Gas,46886.46,1,1,10/09/2024
+553,Rocha-Wood,USA,Crypto Exchange,73355.64,0,1,22/03/2024
+554,Hart and Sons,Brazil,Finance,55088.42,1,0,10/12/2021
+555,Green PLC,Canada,Manufacturing,56752.05,0,1,17/08/2025
+556,"Butler, Hernandez and Rivera",Mexico,Retail,41762.46,0,0,07/12/2023
+557,"Whitaker, Porter and Pena",North Korea,Manufacturing,40247.88,0,1,28/07/2023
+558,Hines-Burns,Mexico,Retail,41348.84,0,0,15/11/2024
+559,Jackson-Norton,India,Oil & Gas,57889.04,0,0,20/02/2022
+560,Cortez Group,France,Retail,41580.31,0,1,07/04/2022
+561,"Mooney, Bernard and Warren",Sudan,Real Estate,55795.5,1,0,01/05/2021
+562,"Williams, Smith and Taylor",Afghanistan,Finance,91508.02,0,1,02/09/2022
+563,Mann Inc,Afghanistan,Gambling,67422.49,0,0,24/07/2022
+564,"Bryant, Brown and Little",UK,Consulting,43479.53,1,0,23/10/2024
+565,"Freeman, Smith and Arnold",Brazil,Consulting,74024.28,1,1,19/10/2020
+566,Moreno LLC,India,Finance,41838.49,1,1,04/04/2025
+567,Smith-Li,Syria,Oil & Gas,9237.51,0,0,12/05/2024
+568,Rodriguez Inc,Afghanistan,Finance,29838.27,1,0,28/02/2025
+569,Allen PLC,Turkey,Consulting,12584.16,1,0,06/03/2025
+570,Ochoa-Adams,India,Crypto Exchange,42969.73,1,0,29/01/2024
+571,Watson Group,Brazil,Manufacturing,50368.37,1,1,09/08/2024
+572,"Sanchez, Terry and Evans",North Korea,Crypto Exchange,83528.75,0,1,21/05/2021
+573,"Frey, Santos and Johnson",India,Retail,56538.55,0,0,24/02/2024
+574,Bennett-Alvarez,France,Crypto Exchange,45617.99,1,0,12/10/2020
+575,"Jackson, Porter and Hamilton",USA,Real Estate,66588.11,1,0,09/07/2023
+576,"Madden, Dickson and Jacobson",Sudan,Crypto Exchange,5777.29,0,1,23/01/2021
+577,Lewis Ltd,Canada,Crypto Exchange,54712.29,0,1,09/07/2025
+578,Nelson-Glass,Canada,Crypto Exchange,65417.3,1,1,01/02/2023
+579,"Elliott, Johnson and Mcfarland",India,Oil & Gas,20428.28,1,1,18/05/2023
+580,Ali PLC,Afghanistan,Real Estate,72875.08,1,1,04/12/2021
+581,"Nicholson, Hickman and Evans",North Korea,Oil & Gas,56769.93,1,0,01/07/2025
+582,Knight Group,Brazil,Real Estate,41694.24,1,0,19/04/2025
+583,Reyes-Singh,Mexico,Crypto Exchange,62655.64,0,0,14/05/2021
+584,"Mcgee, Reed and Davis",Afghanistan,Consulting,95413.86,1,0,04/09/2022
+585,Peterson PLC,Sudan,Real Estate,53637.33,0,1,28/01/2024
+586,Johnson-Nelson,Mexico,Crypto Exchange,54964.41,1,1,13/07/2024
+587,Perez-Tran,Afghanistan,Oil & Gas,40812.78,1,1,23/11/2023
+588,Lopez-Willis,Syria,Real Estate,33003.11,0,0,07/12/2023
+589,Barton LLC,Germany,Oil & Gas,66606.72,0,0,18/10/2022
+590,"Jones, Adams and James",Turkey,Retail,32878.32,0,0,05/01/2022
+591,"Price, Ward and Davis",France,Retail,51431.32,1,0,28/04/2023
+592,Ward-Nelson,USA,Crypto Exchange,40446.85,0,0,29/10/2021
+593,Lopez Group,Iran,Crypto Exchange,59579.6,1,1,09/06/2025
+594,"Hunt, Garcia and Davis",Iran,Oil & Gas,56673.24,1,0,31/05/2025
+595,Carlson LLC,Iran,Consulting,70750.8,0,0,23/12/2023
+596,Carter Group,Turkey,Gambling,39799.67,1,0,03/06/2021
+597,"Santana, Stein and Spence",Turkey,Consulting,44602.5,0,0,26/07/2025
+598,"Jackson, James and Taylor",Canada,Manufacturing,30424.73,0,0,06/04/2023
+599,Snyder-Brown,Sudan,Gambling,41114.13,1,1,25/05/2024
+600,Fisher-Washington,France,Consulting,57546.01,0,1,09/05/2021
+601,King-Wright,India,Oil & Gas,65139.77,0,0,01/12/2024
+602,"Jensen, Ellis and Taylor",Afghanistan,Manufacturing,31556.69,0,0,04/10/2020
+603,Cook-Oliver,India,Consulting,67392.12,1,1,03/07/2023
+604,Cook-Ochoa,Iran,Retail,77112.76,0,0,09/11/2021
+605,Flores-Valentine,South Africa,Consulting,58268.7,1,0,30/05/2022
+606,Edwards-Oconnell,Canada,Retail,87535.92,0,0,01/06/2023
+607,Navarro-Chen,Canada,Oil & Gas,34524.22,1,0,07/08/2025
+608,Nguyen LLC,Canada,Manufacturing,25106.91,1,0,16/01/2024
+609,Wilson-Elliott,Syria,Real Estate,14425.6,0,0,05/05/2025
+610,Maldonado PLC,Mexico,Finance,79920.89,1,0,05/12/2020
+611,"Murray, Erickson and Gonzales",Afghanistan,Finance,63087.31,0,1,07/03/2023
+612,"Jones, Abbott and Pope",UK,Real Estate,48888.31,1,0,12/12/2024
+613,Schultz and Sons,France,Manufacturing,55599.37,1,0,07/11/2022
+614,"Moore, Henderson and Bennett",North Korea,Consulting,27490.22,0,0,09/07/2024
+615,"Mendoza, Morales and Hunter",Brazil,Consulting,98915.04,1,0,04/04/2024
+616,"Johnson, Schmitt and Miles",UK,Gambling,52584.42,1,1,08/04/2025
+617,"Little, Miller and Mack",Sudan,Real Estate,52187.9,1,1,20/09/2023
+618,Holland Inc,Syria,Consulting,64515.33,0,1,28/06/2025
+619,"Byrd, Ross and Goodwin",France,Crypto Exchange,59620.18,0,0,12/05/2024
+620,Smith LLC,Afghanistan,Finance,54477.68,1,0,03/08/2022
+621,"Burgess, Grant and Watts",Germany,Consulting,34190.51,1,1,31/07/2022
+622,Brooks-Ford,North Korea,Manufacturing,59429.37,0,1,15/12/2024
+623,Cooper Inc,South Africa,Real Estate,87640.49,1,0,21/10/2024
+624,Phillips Inc,Syria,Manufacturing,76908.4,0,1,08/09/2021
+625,"Thomas, Collins and Gibson",South Africa,Consulting,81863.73,0,0,17/06/2022
+626,"Webb, Alvarez and Kim",North Korea,Real Estate,39775.69,0,1,19/07/2024
+627,Jones-Williams,USA,Consulting,30207.9,0,1,05/09/2021
+628,Sweeney Ltd,India,Consulting,47484.26,0,0,18/08/2021
+629,"Marsh, Spears and Yang",Mexico,Finance,51114.5,1,0,02/02/2025
+630,Arnold LLC,Syria,Gambling,71883.83,1,1,18/06/2025
+631,Mullen-Hall,South Africa,Finance,16150.71,0,0,23/02/2024
+632,"Lopez, Davidson and Reynolds",India,Gambling,80591.01,1,1,12/12/2020
+633,"Mendez, Gonzalez and Vargas",South Africa,Manufacturing,46839.84,1,1,04/01/2024
+634,Bush and Sons,Sudan,Oil & Gas,41462.38,0,1,25/01/2023
+635,"Stokes, Brown and Garcia",North Korea,Finance,29757.91,1,0,08/04/2025
+636,Diaz and Sons,India,Real Estate,16902.87,1,1,04/08/2024
+637,Baker Group,South Africa,Real Estate,66463.41,1,0,10/03/2025
+638,"Edwards, Price and Long",Afghanistan,Real Estate,51466.36,0,1,02/09/2021
+639,Bell-Ellis,Brazil,Finance,24200.78,1,1,03/03/2022
+640,"Mccarthy, Evans and Mendez",Afghanistan,Oil & Gas,24098.42,0,1,03/06/2021
+641,"Anderson, Wilson and Torres",India,Gambling,43284.31,1,1,04/04/2022
+642,Steele-Dixon,North Korea,Crypto Exchange,83380.43,0,0,04/04/2024
+643,"Taylor, Reyes and Lopez",Germany,Oil & Gas,44808.17,0,1,09/04/2025
+644,"Ellison, Arias and Thompson",France,Gambling,19937.14,0,1,13/02/2022
+645,Roberts-Lopez,UK,Oil & Gas,45085.14,0,1,15/07/2024
+646,"Brown, Howard and Smith",Sudan,Gambling,44545.53,0,1,11/11/2021
+647,Ochoa PLC,France,Consulting,3937.73,0,1,31/12/2024
+648,"Simpson, Cohen and Perry",Mexico,Oil & Gas,48914.1,1,1,22/06/2024
+649,Jackson-Cunningham,Turkey,Retail,45381.31,1,0,30/07/2022
+650,Johnson-Walker,North Korea,Crypto Exchange,63924.13,1,0,26/02/2023
+651,Norman PLC,UK,Retail,86979.12,1,1,29/11/2024
+652,"Dixon, Armstrong and Adams",France,Consulting,72531.3,0,0,27/04/2025
+653,Weaver-Sherman,North Korea,Gambling,44622.23,0,0,15/06/2024
+654,"Robinson, Coleman and Fitzgerald",South Africa,Real Estate,27869.48,1,1,22/10/2022
+655,Golden-Johnson,France,Finance,101467.2,1,0,08/12/2022
+656,Atkins-Miller,South Africa,Manufacturing,51184.37,1,1,12/09/2021
+657,Clark Ltd,Canada,Manufacturing,50278.59,0,0,13/09/2025
+658,"Bell, Page and Chen",Brazil,Gambling,49517.5,1,1,10/02/2022
+659,"Taylor, Clark and Clark",France,Crypto Exchange,53961.7,1,1,16/03/2021
+660,"Bell, Campbell and Ryan",South Africa,Manufacturing,47112.79,1,1,15/06/2023
+661,"Carter, Armstrong and Farley",Brazil,Manufacturing,38526.76,1,0,28/01/2025
+662,"Ochoa, Taylor and Brady",France,Manufacturing,39062.82,0,1,14/03/2024
+663,Riddle Ltd,UK,Manufacturing,49344.93,0,0,12/10/2021
+664,"Cline, Wright and Dawson",Turkey,Finance,39131.5,0,1,22/10/2022
+665,"Long, Thomas and Chen",Turkey,Consulting,35743.08,1,0,22/03/2024
+666,Hayes-Schultz,France,Consulting,52128.6,0,0,29/06/2021
+667,Robertson-Ramirez,UK,Consulting,44900.46,1,0,03/11/2023
+668,Clements-Murphy,Germany,Crypto Exchange,80079.86,1,1,20/09/2020
+669,"Davis, Stanton and Reid",India,Retail,3019.4,0,0,30/09/2023
+670,Flynn Group,Afghanistan,Manufacturing,71830.14,0,0,21/07/2022
+671,Summers-Simpson,Brazil,Real Estate,74921.7,0,1,13/06/2023
+672,Morgan-Lane,North Korea,Gambling,8532.2,1,1,07/07/2025
+673,Kramer-Shannon,Mexico,Consulting,43146.25,1,0,10/02/2021
+674,Garcia Group,Brazil,Real Estate,42571.18,1,0,02/11/2020
+675,Noble and Sons,USA,Gambling,21849.77,0,0,15/06/2024
+676,Smith-Rubio,Brazil,Manufacturing,34443.67,0,1,03/06/2022
+677,"Blankenship, Khan and Turner",North Korea,Finance,27788.48,1,0,12/01/2023
+678,Pena LLC,Turkey,Consulting,85045.41,1,0,27/05/2021
+679,Beck-Banks,Mexico,Consulting,68713.57,1,0,20/02/2021
+680,Garrett-Barber,South Africa,Finance,75431.1,0,1,10/09/2022
+681,Rios-Padilla,Afghanistan,Finance,64433.44,0,1,16/09/2020
+682,Woods and Sons,USA,Oil & Gas,27418.96,0,1,16/08/2022
+683,"Frazier, Smith and Dominguez",Iran,Oil & Gas,39509.59,0,0,22/09/2021
+684,Benson-Woods,USA,Consulting,59787.49,1,1,25/08/2022
+685,Davis-Shaffer,UK,Oil & Gas,25557.44,1,1,30/07/2021
+686,Richardson-Evans,South Africa,Finance,64259.97,0,0,16/12/2023
+687,May Ltd,France,Crypto Exchange,45193.49,1,0,30/11/2021
+688,Moreno Inc,Afghanistan,Crypto Exchange,42503.58,1,0,04/02/2022
+689,Bell-Lewis,France,Oil & Gas,64219.2,1,0,27/12/2021
+690,Jensen-Ramos,Mexico,Manufacturing,58885.27,1,1,19/07/2022
+691,Mosley and Sons,Turkey,Retail,42780.68,1,0,30/09/2021
+692,"Blair, Bell and Jordan",India,Manufacturing,73186.6,0,1,21/11/2021
+693,Hill Inc,USA,Retail,28378.73,1,1,24/10/2022
+694,"Burke, Griffith and Mitchell",Brazil,Manufacturing,62318.71,1,0,05/12/2020
+695,"Liu, Harris and Lawson",France,Crypto Exchange,61862.03,0,1,22/04/2022
+696,"Myers, Lucas and Bowers",USA,Consulting,43809.07,0,0,26/09/2022
+697,Cruz-Allen,France,Crypto Exchange,56522.66,0,0,21/04/2021
+698,"Oneal, Smith and Ward",Mexico,Real Estate,24977.73,1,0,24/05/2023
+699,Hughes PLC,Brazil,Gambling,68480.54,1,1,12/04/2024
+700,Payne-Thompson,USA,Manufacturing,46301.96,0,1,15/09/2024
+701,Smith Inc,Canada,Retail,39545.54,1,0,25/10/2020
+702,Lewis-Livingston,Germany,Finance,70980.18,0,0,01/02/2024
+703,"Mitchell, Marquez and Wang",Germany,Real Estate,35913.13,0,1,21/04/2024
+704,"Morales, Davidson and Medina",South Africa,Finance,21830.77,1,1,31/12/2021
+705,Miller-Miller,India,Oil & Gas,18867.42,0,0,06/06/2022
+706,Herrera Group,India,Gambling,62120.2,1,1,08/09/2025
+707,"Hines, Santos and Day",South Africa,Real Estate,24391.41,0,0,04/05/2023
+708,"Kim, Ashley and Allen",Germany,Oil & Gas,85095.88,1,0,12/10/2022
+709,Middleton Inc,France,Consulting,8361.41,0,1,22/07/2024
+710,"Lynch, Parker and Harmon",USA,Crypto Exchange,83929.13,1,1,12/03/2022
+711,Smith and Sons,Brazil,Gambling,54220.35,1,0,18/10/2020
+712,Crawford LLC,Mexico,Oil & Gas,48065.74,1,0,23/02/2025
+713,"Logan, Le and Jackson",Iran,Manufacturing,39101.62,1,0,12/10/2021
+714,"Norman, Adams and Tanner",North Korea,Finance,57982.72,1,1,13/12/2020
+715,Roman-Nelson,Iran,Consulting,49247.31,0,0,30/03/2021
+716,Joseph-Ray,Canada,Gambling,72066.04,0,1,10/05/2021
+717,Gibson-Ward,North Korea,Real Estate,52284.55,1,0,13/12/2024
+718,"Jackson, Moore and Ayala",Brazil,Finance,53006.04,0,1,01/08/2025
+719,"Sharp, Perez and Hicks",UK,Gambling,42727.76,0,1,27/01/2021
+720,Sanchez Group,UK,Manufacturing,48861.09,0,0,18/10/2023
+721,Mora-White,Sudan,Oil & Gas,56156.04,0,0,31/12/2020
+722,"Pratt, Klein and Rios",Mexico,Crypto Exchange,15796.63,1,0,11/08/2022
+723,Wright-Moon,Iran,Real Estate,23036.29,0,1,04/06/2023
+724,Mckenzie-Duncan,Germany,Finance,64865.28,1,0,18/09/2021
+725,"Nunez, Williams and Walker",Sudan,Consulting,53417.31,0,0,01/02/2025
+726,Finley Inc,North Korea,Real Estate,46320.33,1,1,27/08/2024
+727,Ayala-Collins,Syria,Consulting,50368.68,0,0,08/06/2021
+728,"Bryant, Wood and Carter",North Korea,Retail,56951.63,0,1,15/04/2023
+729,"Dean, Marshall and Vargas",Brazil,Crypto Exchange,39204.81,0,1,23/11/2024
+730,Oconnor PLC,Mexico,Oil & Gas,34433.91,0,0,14/10/2022
+731,Smith Group,Canada,Manufacturing,53916.91,0,0,26/11/2020
+732,Weaver Ltd,Mexico,Consulting,30432.54,1,1,12/10/2020
+733,Smith-Sandoval,Brazil,Finance,58165.06,0,1,26/04/2023
+734,Harris and Sons,UK,Manufacturing,15948.33,0,1,09/04/2024
+735,Woodward-Kaufman,France,Retail,70583.11,1,0,29/11/2021
+736,"Ramirez, Williams and Hall",Turkey,Crypto Exchange,59451.95,1,1,13/02/2025
+737,Haynes-Watson,UK,Retail,55120.59,0,1,03/06/2021
+738,"Davis, Anderson and Wilkins",India,Manufacturing,69653.82,0,1,03/05/2021
+739,"Bradley, Graham and Brandt",UK,Manufacturing,83309.49,0,1,18/09/2022
+740,Green-Edwards,Canada,Real Estate,70287.4,0,1,16/01/2024
+741,"Decker, Nguyen and Chavez",USA,Consulting,13182.52,1,0,08/09/2022
+742,Harding and Sons,France,Oil & Gas,24408.46,0,0,03/09/2025
+743,Moore and Sons,Mexico,Manufacturing,37503.63,0,1,10/07/2024
+744,Edwards-Martinez,Sudan,Retail,50521.82,0,1,01/10/2023
+745,Hayes Group,Turkey,Gambling,60353.18,1,1,15/12/2022
+746,Davis Ltd,Germany,Consulting,35485.12,0,0,16/04/2023
+747,"Terry, Williams and Huff",Afghanistan,Manufacturing,53735.34,1,0,28/06/2023
+748,Davis and Sons,Turkey,Crypto Exchange,34892.34,0,1,23/09/2023
+749,Palmer-Byrd,India,Manufacturing,37769.64,1,1,30/11/2022
+750,Johnson Group,Germany,Crypto Exchange,21866.78,0,0,18/07/2024
+751,"Adkins, Wright and Murray",North Korea,Consulting,31535.34,0,1,21/11/2021
+752,Smith and Sons,Mexico,Retail,22966.31,1,0,24/10/2021
+753,Colon LLC,North Korea,Retail,30482.53,0,0,01/06/2021
+754,"Willis, Lowery and Jones",Syria,Oil & Gas,71072.84,1,1,01/04/2021
+755,Orr Group,Syria,Real Estate,31012.02,0,1,18/10/2021
+756,Stein LLC,Germany,Manufacturing,102647.64,0,1,28/09/2021
+757,Dunlap Inc,France,Consulting,59866.36,1,0,16/02/2022
+758,"Hamilton, Ramsey and Crawford",Afghanistan,Manufacturing,53696.72,1,1,16/12/2023
+759,"Simmons, Gomez and Odonnell",Turkey,Real Estate,32832.84,0,1,15/01/2023
+760,Griffin-Hernandez,USA,Finance,64006.2,1,0,16/10/2022
+761,"Phillips, Jenkins and Pierce",Afghanistan,Manufacturing,38487.24,0,0,21/03/2021
+762,Ramirez and Sons,Germany,Retail,52440.2,0,0,07/04/2024
+763,Day PLC,Sudan,Retail,101201.69,1,1,27/10/2022
+764,"Mcknight, Stephens and Smith",India,Finance,48078.8,0,0,15/12/2023
+765,"Howard, Stephens and Washington",Turkey,Consulting,72985.47,0,1,06/07/2025
+766,"Morris, Nelson and Johnson",Sudan,Consulting,35936.47,1,1,25/07/2022
+767,Huang LLC,USA,Manufacturing,49300.23,1,0,14/03/2021
+768,Moreno-Wang,Turkey,Retail,85416.01,0,0,06/09/2022
+769,Garcia Ltd,France,Retail,37460.66,1,0,02/10/2022
+770,Ferguson-Moody,Canada,Oil & Gas,86248.97,1,1,05/03/2021
+771,Johnston Group,Brazil,Manufacturing,64155.04,1,0,20/09/2023
+772,Thompson PLC,Brazil,Crypto Exchange,38750.66,1,1,29/05/2023
+773,"Wolfe, Sloan and Johnson",Germany,Crypto Exchange,62648.15,1,1,10/09/2023
+774,"Elliott, Hart and Lopez",Mexico,Oil & Gas,69451.09,0,0,20/11/2024
+775,"Parker, Henry and Davis",Syria,Retail,62436.2,1,0,05/09/2022
+776,"Robinson, Fox and Smith",Sudan,Real Estate,18595.51,0,1,31/05/2022
+777,Peterson and Sons,Iran,Consulting,35457.26,1,0,15/06/2023
+778,Johnson PLC,Sudan,Crypto Exchange,45049.63,1,1,27/11/2021
+779,Mathis LLC,Iran,Finance,48511.33,1,0,26/04/2021
+780,Bush-Bates,Iran,Crypto Exchange,62413.44,1,1,07/09/2025
+781,Rogers LLC,South Africa,Manufacturing,53554.02,0,0,10/11/2021
+782,Oconnor Group,UK,Consulting,23293.11,0,0,04/11/2024
+783,"Stewart, Mann and Hoffman",India,Finance,57603.96,0,1,26/09/2023
+784,Wade and Sons,Afghanistan,Real Estate,62211.71,1,1,02/12/2023
+785,Gross-Phillips,Brazil,Oil & Gas,61195.81,1,0,19/03/2022
+786,"Smith, Miles and Berry",North Korea,Crypto Exchange,71615.61,0,0,12/07/2025
+787,White LLC,Syria,Manufacturing,66678.44,0,1,31/07/2022
+788,"Cunningham, Zuniga and Taylor",South Africa,Real Estate,59183.6,1,0,12/05/2021
+789,Reed LLC,Turkey,Real Estate,48596.69,0,1,16/02/2022
+790,"Mcclure, Davis and Fletcher",Afghanistan,Oil & Gas,16780.78,1,0,23/07/2023
+791,Smith-Clark,North Korea,Finance,58592.36,1,0,11/04/2021
+792,Scott-Rodriguez,Sudan,Real Estate,54153.75,0,0,16/09/2020
+793,Cruz Ltd,Germany,Crypto Exchange,55431.58,1,1,08/04/2024
+794,Wilkerson Group,Turkey,Retail,24465.03,1,1,03/12/2023
+795,Payne-Garcia,USA,Finance,28378.87,0,1,11/10/2024
+796,"Curtis, Mcdaniel and Martin",USA,Oil & Gas,71063.06,0,0,30/04/2021
+797,Phillips LLC,South Africa,Manufacturing,49208.9,0,0,03/12/2022
+798,Jones and Sons,Iran,Retail,63630.01,0,0,23/11/2023
+799,Dennis PLC,Sudan,Consulting,50566.37,1,0,29/06/2021
+800,Wheeler-Austin,Mexico,Gambling,50595.12,0,0,21/10/2024
+801,"Johnson, Dunlap and Martin",North Korea,Crypto Exchange,68765.68,1,0,24/05/2024
+802,Brown LLC,North Korea,Real Estate,39679.11,0,0,13/06/2022
+803,Ortiz PLC,South Africa,Retail,51922.42,0,1,18/04/2025
+804,Guerrero-Evans,USA,Consulting,40754.49,1,0,08/07/2021
+805,Long PLC,India,Consulting,41310.08,0,1,16/11/2024
+806,Brown Inc,Sudan,Finance,43816.56,1,1,03/05/2024
+807,Phillips Ltd,South Africa,Finance,54442.68,0,0,14/10/2024
+808,Davis and Sons,UK,Gambling,40425.03,1,1,25/02/2022
+809,"Carter, Miller and Anthony",Canada,Oil & Gas,75115.12,0,0,29/04/2023
+810,Ruiz-Jacobson,Afghanistan,Consulting,32107.85,0,1,15/12/2022
+811,May Group,Sudan,Crypto Exchange,46262.57,0,1,10/04/2022
+812,Mcclure-Wood,France,Real Estate,41205.38,1,1,28/06/2024
+813,Baker Group,Brazil,Real Estate,78939.56,1,1,10/12/2022
+814,Hood PLC,Syria,Retail,53931.1,1,0,23/03/2021
+815,Goodwin Ltd,Iran,Gambling,70636.89,0,1,10/07/2021
+816,Barnett PLC,Turkey,Real Estate,20288.79,0,0,22/03/2024
+817,"Perez, Brown and Hughes",North Korea,Crypto Exchange,55341.01,0,1,22/02/2025
+818,Sheppard-Mcdaniel,Turkey,Retail,67792.62,0,1,27/09/2024
+819,"Keith, Alvarez and Miller",Brazil,Finance,51645.68,0,0,29/12/2020
+820,"Duncan, Black and Duncan",Mexico,Real Estate,71309.61,1,0,15/12/2021
+821,Avery Group,Germany,Real Estate,39654.23,0,0,04/03/2022
+822,Stanton and Sons,USA,Oil & Gas,78186.95,1,0,10/10/2021
+823,Henderson Ltd,South Africa,Retail,95977.96,0,0,27/05/2024
+824,Osborn Ltd,Sudan,Crypto Exchange,42743.23,0,1,16/12/2021
+825,"Scott, Bartlett and Sloan",Iran,Real Estate,41089.95,0,0,09/04/2021
+826,Hughes Group,Brazil,Finance,79067.69,1,0,25/05/2025
+827,Gates-Stone,Iran,Finance,81591.44,0,0,21/10/2020
+828,"Dean, Mills and Barnes",USA,Real Estate,39542.8,0,1,23/03/2024
+829,Hernandez PLC,Germany,Consulting,41596.26,0,1,28/08/2025
+830,Buckley PLC,Afghanistan,Real Estate,44364.31,0,0,23/07/2021
+831,Dillon-Beard,Germany,Consulting,23110.99,1,1,12/03/2024
+832,Reyes-Washington,Syria,Real Estate,31626.96,0,0,21/09/2024
+833,Jackson Group,India,Gambling,29917.18,1,0,03/12/2021
+834,"Franklin, Steele and Williams",Syria,Retail,34644.05,1,0,09/07/2023
+835,"Young, Reese and Mccall",Syria,Real Estate,49306.3,0,0,14/11/2023
+836,Morgan LLC,Canada,Oil & Gas,54684.29,0,1,07/05/2023
+837,Cameron-Garrison,Germany,Manufacturing,81010.01,0,1,15/07/2021
+838,Taylor Ltd,Brazil,Finance,30032.92,0,1,20/06/2024
+839,Adams-Butler,South Africa,Retail,69686.45,1,0,17/06/2021
+840,Alexander Group,Sudan,Manufacturing,45720.22,1,1,27/10/2024
+841,"Camacho, Nicholson and Robertson",France,Manufacturing,49010.73,0,0,19/01/2022
+842,Collins PLC,India,Oil & Gas,63496.39,1,0,18/02/2024
+843,Deleon PLC,Canada,Consulting,27545.56,1,1,15/07/2025
+844,Thompson and Sons,Brazil,Consulting,57648.19,0,1,11/03/2021
+845,Johnson Inc,France,Crypto Exchange,53329.04,0,1,07/10/2023
+846,"Gonzalez, Richardson and Marshall",North Korea,Retail,59849.03,1,0,29/01/2024
+847,"Leblanc, Maldonado and Allen",Brazil,Gambling,55783.37,0,0,09/11/2024
+848,"Griffin, Horne and Wells",Brazil,Finance,99106,1,0,22/05/2025
+849,Cooper-Monroe,Germany,Manufacturing,37245.2,0,1,25/11/2022
+850,"Rivas, Davis and Johnson",Mexico,Oil & Gas,39380.06,0,1,14/02/2021
+851,Nash and Sons,UK,Finance,37537.19,1,0,01/08/2022
+852,"Perez, Clark and Pearson",Iran,Manufacturing,38890.46,1,0,24/01/2025
+853,Hancock Ltd,Sudan,Consulting,37252.26,1,1,10/10/2020
+854,Buck-Holland,Afghanistan,Crypto Exchange,73780.33,0,0,09/10/2020
+855,King LLC,India,Oil & Gas,78410.08,0,0,16/01/2023
+856,Woodard-York,Brazil,Retail,38585.07,1,0,09/08/2024
+857,Robinson-Turner,Afghanistan,Oil & Gas,33352.89,0,0,16/02/2025
+858,"Sanders, Garcia and Hunt",Iran,Crypto Exchange,59428.31,0,1,19/11/2023
+859,"Holland, Lynch and Evans",North Korea,Oil & Gas,38955.54,0,1,14/08/2021
+860,Brown-Mcneil,France,Consulting,62658.64,1,1,20/06/2023
+861,Green-Dawson,Canada,Gambling,54058.46,0,1,30/03/2023
+862,Hernandez and Sons,Syria,Real Estate,19685.12,1,1,08/03/2021
+863,"Powell, Flores and Taylor",Syria,Oil & Gas,80950.1,0,1,01/12/2020
+864,"Jimenez, Phillips and Meadows",South Africa,Oil & Gas,85917.55,1,0,22/02/2024
+865,Doyle-Aguilar,USA,Gambling,37744.23,0,0,26/07/2025
+866,Cooper Ltd,France,Manufacturing,42245.97,0,1,04/08/2022
+867,"Nichols, Glover and Knox",France,Consulting,55717.31,0,0,01/10/2023
+868,"Evans, Jackson and Sandoval",USA,Consulting,56689.14,1,1,13/06/2025
+869,Carter Group,Mexico,Crypto Exchange,63170.89,1,1,15/10/2021
+870,"Green, Stokes and Hines",North Korea,Consulting,90204.09,0,0,04/04/2022
+871,"Lam, Pena and Walker",North Korea,Oil & Gas,46461.06,0,0,07/08/2022
+872,"Savage, Fisher and Eaton",Sudan,Crypto Exchange,34034.06,0,0,11/11/2023
+873,Richards-Ford,India,Manufacturing,22413.62,1,0,13/09/2021
+874,Brown-Walters,USA,Finance,35381.4,1,1,20/08/2025
+875,"Jones, Preston and Mason",Canada,Manufacturing,49337.46,0,1,12/12/2023
+876,"Evans, Brown and Dickerson",Turkey,Consulting,85891.16,1,1,13/11/2021
+877,Cooper PLC,Turkey,Oil & Gas,39647.77,0,1,04/08/2024
+878,Stewart Ltd,North Korea,Consulting,54475.76,0,0,27/03/2022
+879,Freeman Ltd,Mexico,Manufacturing,49671.54,0,0,16/03/2022
+880,Walters-Smith,France,Gambling,73767.87,1,1,10/01/2023
+881,Juarez and Sons,Afghanistan,Consulting,100538.65,1,1,08/08/2025
+882,Burns Inc,Iran,Finance,39382.62,1,1,20/10/2021
+883,"Hamilton, Jordan and Patterson",Syria,Consulting,40211.21,0,1,05/10/2024
+884,Smith-Ferguson,Canada,Real Estate,70883.22,0,0,16/11/2023
+885,Mcclain PLC,Germany,Oil & Gas,63637.83,1,1,28/04/2022
+886,Rhodes Ltd,Iran,Real Estate,86934.15,1,1,26/10/2022
+887,Steele LLC,Afghanistan,Oil & Gas,61678.56,0,0,10/05/2023
+888,Garcia PLC,Syria,Gambling,42814.16,1,1,22/04/2023
+889,Brown Inc,Afghanistan,Consulting,61813.1,0,0,28/03/2023
+890,Bryant-Meyer,South Africa,Crypto Exchange,72174.07,1,1,27/02/2025
+891,Hamilton-Mcdaniel,France,Real Estate,66409.64,0,0,02/11/2021
+892,Ferrell-Henry,North Korea,Gambling,60145.48,1,0,21/04/2022
+893,Vaughan Group,France,Retail,71333.49,0,0,11/11/2020
+894,Walker and Sons,Canada,Crypto Exchange,73385.91,0,0,01/07/2022
+895,"Johnson, Wagner and Martinez",Iran,Oil & Gas,77643.18,0,1,07/01/2021
+896,Mcdowell-Scott,Germany,Crypto Exchange,62974.2,1,1,01/04/2025
+897,"Williams, Vang and Stanley",USA,Oil & Gas,46657.64,1,0,13/11/2020
+898,Norris Group,UK,Retail,52934.27,0,1,24/06/2024
+899,Martinez-King,South Africa,Oil & Gas,74130.18,0,1,01/01/2022
+900,Neal Ltd,Mexico,Real Estate,33661.29,1,0,11/10/2020
+901,Fisher-Garcia,USA,Gambling,57373.47,0,1,15/02/2025
+902,Dean-Haynes,Iran,Consulting,42133.22,0,0,06/04/2024
+903,Hunt PLC,USA,Crypto Exchange,50574.9,0,0,13/09/2021
+904,Wilson-Rodriguez,UK,Crypto Exchange,75569.04,1,1,23/05/2022
+905,"Gonzalez, Baker and Mills",Turkey,Retail,53821.98,0,1,01/06/2022
+906,Warner-Phillips,Canada,Finance,50928.73,0,0,13/01/2021
+907,"Crawford, Clark and Fitzpatrick",Sudan,Gambling,22802.88,1,1,07/07/2023
+908,Smith Ltd,India,Consulting,64925.07,1,1,16/06/2021
+909,Conley Ltd,Afghanistan,Crypto Exchange,62909.68,1,1,26/11/2024
+910,Herring PLC,UK,Consulting,93265.09,0,0,04/05/2021
+911,"Cummings, Conway and Newman",Turkey,Real Estate,43844.44,1,1,02/08/2024
+912,Baker-Williams,UK,Manufacturing,54383.01,1,0,09/03/2022
+913,Phelps LLC,Brazil,Gambling,54987.67,1,1,12/05/2023
+914,Rodgers-Davis,Afghanistan,Gambling,81549.07,0,0,02/02/2021
+915,Christian Ltd,Turkey,Crypto Exchange,48094.09,0,1,24/02/2022
+916,Howard-Kim,UK,Real Estate,55580.43,0,0,25/12/2022
+917,"Davis, Briggs and White",UK,Oil & Gas,62157.93,1,1,10/02/2024
+918,Rivers-Nelson,Canada,Consulting,53732.18,1,1,25/12/2023
+919,"Jefferson, Marsh and Banks",Germany,Retail,41071.33,0,1,13/02/2022
+920,Anderson Ltd,Germany,Crypto Exchange,53881.8,1,1,14/03/2021
+921,Garcia PLC,Turkey,Gambling,71472.63,0,0,21/10/2024
+922,"Gregory, White and James",Afghanistan,Manufacturing,29469.69,1,0,02/10/2023
+923,"Johnson, Cohen and Roberson",Germany,Gambling,52659.39,0,1,23/10/2021
+924,Knapp-Rodriguez,UK,Manufacturing,35997.58,0,1,13/03/2024
+925,Williams-Green,Sudan,Gambling,73900.93,1,1,17/05/2023
+926,Bush Ltd,Brazil,Gambling,19536.26,1,1,01/03/2025
+927,"Ray, Cunningham and Levine",USA,Manufacturing,38821.56,1,0,31/07/2023
+928,"Mills, Haynes and Davis",USA,Manufacturing,57544.24,1,0,25/10/2022
+929,Reed-Rhodes,Turkey,Manufacturing,81310.48,1,1,22/12/2023
+930,Combs PLC,India,Retail,48684.99,0,0,01/03/2021
+931,Schneider and Sons,Sudan,Real Estate,38896.01,1,1,31/12/2024
+932,Christian-Booth,Syria,Real Estate,87623.14,0,0,03/05/2021
+933,Flores-Rivera,South Africa,Real Estate,21039.72,0,1,25/01/2023
+934,Hunter PLC,UK,Retail,6023.88,0,1,03/12/2023
+935,Montoya-Miller,Afghanistan,Crypto Exchange,58800.29,0,0,24/06/2024
+936,"West, Gates and West",South Africa,Manufacturing,39958.92,0,1,16/09/2021
+937,Mcgee-Smith,UK,Consulting,29575.34,1,1,18/02/2024
+938,Johnson-Dunn,South Africa,Consulting,64167.13,0,0,22/06/2021
+939,"Richmond, Walsh and Wu",Turkey,Crypto Exchange,54876.01,1,0,26/06/2025
+940,Pena Group,Canada,Real Estate,38718.43,0,0,07/08/2023
+941,Bryan-Velasquez,UK,Retail,24393.91,0,0,25/07/2024
+942,Castro-Harvey,Germany,Real Estate,67449.15,1,0,21/09/2024
+943,"Sandoval, Baldwin and Wilson",North Korea,Consulting,63004.02,1,0,02/08/2022
+944,Peterson Ltd,North Korea,Retail,48016.48,1,1,09/03/2023
+945,"Boyd, Park and Williams",South Africa,Real Estate,86932.74,1,0,05/02/2022
+946,Taylor-Love,Brazil,Oil & Gas,28598.3,1,0,07/03/2024
+947,King and Sons,Syria,Consulting,19489.5,0,0,18/04/2022
+948,Conrad Group,Sudan,Finance,36161.84,0,0,14/07/2022
+949,Summers-Lee,Mexico,Finance,49088.28,0,1,29/07/2023
+950,Sherman Inc,Germany,Retail,54866.79,1,1,30/09/2021
+951,Ellis-Lawrence,France,Retail,45175.28,0,0,27/12/2024
+952,Maynard Inc,UK,Retail,57041.11,0,0,18/03/2025
+953,"Williams, Mcconnell and Roberson",India,Oil & Gas,24969.21,1,0,22/10/2024
+954,"Norman, Kent and Holt",Turkey,Gambling,78875.29,1,0,06/03/2022
+955,"Ochoa, Garcia and Sandoval",Sudan,Retail,48356.98,1,1,09/06/2023
+956,"Keith, Barnes and Lynch",UK,Manufacturing,72345.92,1,0,24/10/2022
+957,Sanders-Cooper,India,Manufacturing,56854.51,0,1,15/03/2023
+958,Ballard-Taylor,North Korea,Manufacturing,59135.06,1,0,21/01/2025
+959,Cameron-Kelley,Mexico,Crypto Exchange,61395.35,1,0,16/05/2023
+960,"Doyle, Spencer and Robinson",Brazil,Consulting,58954.17,1,0,26/06/2022
+961,"Klein, Parks and Morse",Iran,Oil & Gas,62854.46,0,1,30/10/2021
+962,"Santos, Mullen and Gordon",Brazil,Crypto Exchange,76583.05,0,0,11/06/2023
+963,"Wilson, Bell and Castillo",UK,Manufacturing,53930.42,0,1,21/07/2025
+964,"Mckinney, Craig and English",Syria,Manufacturing,64180.08,0,0,29/03/2025
+965,Rich-Henderson,Canada,Gambling,48205.29,0,1,22/10/2020
+966,"Rodriguez, James and Brown",Afghanistan,Gambling,78802.34,1,0,07/03/2021
+967,Adams and Sons,North Korea,Finance,36472.15,0,1,20/02/2023
+968,"King, Franco and Vaughn",Brazil,Real Estate,86018.81,1,0,18/03/2023
+969,Molina Inc,North Korea,Retail,49196.84,0,0,02/10/2023
+970,Garcia-Parrish,UK,Finance,21384.5,1,1,24/06/2025
+971,Newton PLC,Canada,Oil & Gas,52562.09,1,0,04/01/2024
+972,Dixon Ltd,Brazil,Real Estate,36378.97,0,0,23/02/2023
+973,"Beck, House and Hughes",India,Consulting,66812.87,1,1,12/05/2023
+974,"Brown, Manning and Harris",USA,Consulting,36947.52,1,1,20/06/2024
+975,Pruitt Ltd,UK,Finance,41076.33,0,0,30/10/2023
+976,"Payne, Morrison and Parsons",Germany,Retail,12209.19,0,0,07/05/2022
+977,Cole-Lucero,India,Oil & Gas,40953.87,1,0,02/05/2021
+978,Rivers Ltd,Mexico,Consulting,1522.41,1,0,26/01/2025
+979,Bennett Group,USA,Finance,18321.94,1,1,28/01/2023
+980,"Baker, Martin and Singleton",North Korea,Consulting,65208.29,1,0,30/09/2020
+981,Owens-Pineda,North Korea,Gambling,65716,1,0,15/01/2021
+982,Mcfarland PLC,Germany,Crypto Exchange,58509.15,1,0,18/02/2021
+983,"Gilbert, Stanley and Henry",India,Crypto Exchange,30660.48,1,1,28/07/2025
+984,"Howard, Bowers and Stewart",UK,Consulting,49045.77,0,0,28/07/2022
+985,Meyer PLC,Iran,Finance,49927.95,1,1,21/01/2022
+986,Daniels-Powell,USA,Finance,26832.71,0,1,03/09/2023
+987,Ware Ltd,Brazil,Crypto Exchange,80067.97,1,1,11/07/2023
+988,Ward-Robinson,Iran,Crypto Exchange,67547.25,1,1,19/03/2025
+989,Barajas-Colon,USA,Crypto Exchange,45580.72,0,1,10/10/2020
+990,Caldwell Group,South Africa,Oil & Gas,50537.72,0,1,29/09/2022
+991,"Austin, Oliver and Haley",South Africa,Real Estate,54167.66,0,1,07/06/2023
+992,Moon-Landry,Germany,Retail,9165.3,0,1,25/12/2023
+993,Fernandez-Campbell,India,Retail,45056.45,0,0,04/02/2025
+994,Robertson-Hicks,France,Gambling,36360.32,0,1,03/11/2024
+995,Phillips Ltd,Brazil,Real Estate,29967.6,0,0,04/05/2022
+996,Palmer-Vaughan,USA,Oil & Gas,44377.99,1,1,15/02/2022
+997,"Ferguson, Sims and Clark",Germany,Real Estate,85953.73,1,0,07/07/2022
+998,"Coleman, Garcia and Medina",North Korea,Crypto Exchange,62816.86,0,1,27/05/2024
+999,"Montoya, Jones and Parks",Brazil,Gambling,38576.42,1,0,25/11/2020
+1000,Love-Johnson,Iran,Finance,61451.66,1,0,28/04/2021
+1001,Thompson LLC,USA,Consulting,77987.11,0,1,12/06/2025
+1002,Andrews and Sons,Mexico,Crypto Exchange,68492.67,0,0,25/11/2022
+1003,Hughes-Mccoy,Canada,Consulting,51192.61,0,1,20/05/2024
+1004,Smith-Nunez,USA,Crypto Exchange,37061.26,1,0,01/04/2025
+1005,May PLC,France,Consulting,63964.47,0,0,28/03/2021
+1006,"Richards, Haynes and Jones",France,Oil & Gas,57869.71,1,0,23/12/2024
+1007,Roberts Ltd,South Africa,Retail,67903.86,0,1,07/04/2023
+1008,"Miller, Hubbard and Kim",USA,Oil & Gas,62703.44,0,0,23/01/2024
+1009,"Johnson, Moore and Robinson",Germany,Finance,70991.05,0,1,10/01/2024
+1010,"Phillips, Walters and Evans",UK,Real Estate,39295.3,1,1,16/11/2023
+1011,Spencer PLC,Mexico,Crypto Exchange,76347.88,1,1,26/11/2021
+1012,Williams PLC,Brazil,Gambling,53951.99,1,0,20/01/2024
+1013,"Kelley, Miller and Clark",Syria,Consulting,91505.22,1,1,17/08/2023
+1014,Gutierrez Ltd,Germany,Crypto Exchange,36216.24,0,0,22/01/2025
+1015,Martin and Sons,Mexico,Gambling,84719.28,1,0,07/11/2022
+1016,Wilson Ltd,Germany,Finance,53958.22,1,0,11/07/2025
+1017,York PLC,France,Real Estate,36971.64,1,1,16/08/2024
+1018,"Dunn, Roberts and Jones",UK,Gambling,40322.28,1,0,15/07/2021
+1019,Swanson Group,Turkey,Manufacturing,43593.05,0,1,07/07/2023
+1020,Anderson-Rios,Syria,Retail,58483.32,0,0,20/07/2021
+1021,Harvey-Mccullough,Afghanistan,Finance,60456.71,1,1,28/05/2023
+1022,Hayes-Jensen,Syria,Retail,38526,1,0,20/04/2023
+1023,"Silva, Cunningham and Diaz",France,Retail,49512.91,1,1,23/05/2023
+1024,Jackson-Edwards,North Korea,Crypto Exchange,92845.41,1,0,02/08/2022
+1025,"Singh, Graham and Larsen",Turkey,Gambling,84550.86,0,1,04/11/2021
+1026,"Quinn, Humphrey and Ford",India,Consulting,58726.47,1,0,02/10/2023
+1027,Tucker-Rodriguez,Iran,Gambling,50760.07,0,1,25/05/2021
+1028,Trevino-Taylor,USA,Crypto Exchange,52400.63,1,0,13/04/2025
+1029,Baker Ltd,France,Crypto Exchange,62270.36,1,1,08/05/2021
+1030,"Jones, Smith and Hunter",Syria,Manufacturing,29544.15,0,0,18/12/2020
+1031,"Riley, Hammond and Lewis",Germany,Manufacturing,44852.47,1,0,04/01/2021
+1032,"Green, Shannon and Fernandez",India,Gambling,16628.32,1,0,18/12/2021
+1033,Long-Vance,Syria,Gambling,57984.46,0,1,06/03/2023
+1034,Marshall PLC,South Africa,Finance,62943.92,0,0,21/06/2021
+1035,Cox-Smith,Canada,Real Estate,40336.27,0,1,25/09/2022
+1036,"Sutton, Todd and Taylor",South Africa,Real Estate,81479.74,0,1,20/01/2022
+1037,Knight PLC,Turkey,Crypto Exchange,25484.69,0,0,11/12/2021
+1038,"Dennis, Crosby and Williams",France,Finance,20712.5,1,1,06/11/2024
+1039,Brown LLC,North Korea,Real Estate,54489.04,0,0,10/09/2022
+1040,Barnett PLC,UK,Real Estate,70941.97,1,1,10/10/2023
+1041,Harrison-Gibson,Afghanistan,Crypto Exchange,83678.55,1,0,04/02/2021
+1042,Hooper LLC,North Korea,Real Estate,40822.31,1,0,30/07/2021
+1043,"Schmitt, Schultz and Hill",Canada,Crypto Exchange,71573.62,0,1,10/12/2022
+1044,"Stephens, Thompson and Valdez",India,Manufacturing,49229.83,1,1,22/10/2023
+1045,"Valdez, Houston and Black",Turkey,Gambling,46547.45,0,1,26/11/2023
+1046,Black LLC,Turkey,Oil & Gas,67673.2,1,0,20/08/2023
+1047,Sparks-Eaton,Afghanistan,Crypto Exchange,63046.46,1,0,03/10/2020
+1048,"Macias, Gonzales and Hall",North Korea,Finance,18472.16,0,0,28/01/2025
+1049,"Campbell, Hernandez and Moore",Sudan,Crypto Exchange,79530.81,1,0,15/09/2021
+1050,"Hall, Shepherd and Cortez",Sudan,Consulting,77601.83,0,0,18/10/2024
+1051,"Mendoza, Clark and Martin",Iran,Oil & Gas,37488.75,1,0,12/03/2024
+1052,Sanchez and Sons,North Korea,Manufacturing,57916.07,0,0,30/07/2025
+1053,"Martin, Soto and Williams",France,Gambling,59880.6,0,0,26/07/2025
+1054,Brown LLC,Canada,Gambling,55213.48,1,1,26/03/2022
+1055,"Mullen, Greene and Elliott",South Africa,Consulting,38993.9,1,1,09/11/2020
+1056,"Luna, Nicholson and Valentine",Iran,Consulting,36567.53,0,0,17/07/2022
+1057,Obrien-Ruiz,UK,Manufacturing,49488.92,0,0,18/10/2024
+1058,Robinson Group,Brazil,Manufacturing,73454.58,1,1,30/11/2021
+1059,"Hoover, White and Keller",Mexico,Manufacturing,60872,1,1,13/12/2022
+1060,Ramsey LLC,India,Consulting,42587.71,0,1,22/07/2024
+1061,"Garza, Hall and Cruz",Syria,Crypto Exchange,65433.97,0,1,16/08/2021
+1062,Harris PLC,France,Gambling,6970.85,0,1,09/04/2024
+1063,Jacobs and Sons,UK,Real Estate,72975.31,0,0,30/09/2024
+1064,"Greene, Rich and Schmidt",North Korea,Retail,15205.72,0,1,13/09/2021
+1065,Olson and Sons,Turkey,Manufacturing,42751.18,1,0,15/04/2025
+1066,Prince Ltd,Germany,Real Estate,27606.6,0,1,15/05/2024
+1067,"Fisher, Golden and Wolfe",Canada,Finance,24106.37,0,0,07/05/2024
+1068,Mays Group,Sudan,Gambling,73216.54,0,0,11/12/2023
+1069,Chapman-Figueroa,Syria,Retail,40645.98,1,0,07/08/2025
+1070,Coleman LLC,Afghanistan,Manufacturing,56930.08,1,0,04/10/2024
+1071,Kent Inc,Sudan,Oil & Gas,49061.59,1,1,10/02/2023
+1072,"Mcdowell, Ortiz and Lopez",Syria,Crypto Exchange,59540.82,0,1,05/10/2020
+1073,"Mills, Meyer and Brooks",Mexico,Manufacturing,51536.44,0,1,13/06/2022
+1074,"Brock, Ortiz and Rodriguez",South Africa,Oil & Gas,24340.16,1,1,28/04/2024
+1075,"Richards, Green and Herrera",Germany,Finance,69925.34,1,1,03/07/2025
+1076,Carr-Braun,India,Finance,40124.87,0,1,30/01/2024
+1077,Gutierrez PLC,Sudan,Crypto Exchange,18868.36,1,1,20/10/2024
+1078,Wood PLC,USA,Real Estate,41437.7,0,1,24/10/2024
+1079,Hinton-Lane,Canada,Oil & Gas,80015.2,1,1,01/02/2024
+1080,"Taylor, Shields and Wilson",Brazil,Gambling,67004.43,1,0,27/08/2022
+1081,Logan-Avery,Syria,Manufacturing,43026.96,1,0,21/07/2021
+1082,Romero LLC,Canada,Crypto Exchange,43014.85,1,0,20/05/2025
+1083,"Terry, Mann and Martin",Germany,Manufacturing,43567.3,0,0,29/09/2020
+1084,Morrow Group,USA,Consulting,91534.96,0,0,27/05/2024
+1085,Brown and Sons,Turkey,Gambling,57638.71,1,0,09/11/2023
+1086,Lynch Ltd,Brazil,Consulting,58600.83,0,1,21/12/2023
+1087,Mendez-Meyer,Syria,Oil & Gas,70605.67,0,1,10/03/2021
+1088,Bowman Group,Brazil,Retail,54775.78,0,0,16/10/2020
+1089,Jefferson PLC,France,Finance,44819.16,1,0,18/02/2023
+1090,Johnson PLC,Syria,Finance,46073,1,1,16/01/2025
+1091,"Hale, Gilbert and Craig",Iran,Crypto Exchange,48567.97,1,0,05/10/2023
+1092,Pena and Sons,North Korea,Gambling,49255.56,1,0,09/06/2021
+1093,Chan-Gomez,Iran,Crypto Exchange,64552.59,1,1,23/01/2024
+1094,Willis-Holmes,South Africa,Oil & Gas,51038.92,0,0,14/04/2021
+1095,Dunn Ltd,UK,Real Estate,64652.8,0,1,16/06/2025
+1096,"Bailey, Richmond and Hill",USA,Gambling,48385.67,0,1,10/05/2022
+1097,Spears-Andrews,UK,Consulting,51572.7,1,0,03/12/2022
+1098,Russell Inc,Turkey,Gambling,10035.99,1,0,14/06/2025
+1099,Gordon LLC,Turkey,Consulting,68326.55,1,1,11/09/2021
+1100,"Frye, Walter and Li",South Africa,Oil & Gas,56929.77,0,0,04/08/2025
+1101,Benson-Church,South Africa,Finance,69960.2,0,0,28/06/2025
+1102,Carrillo-Todd,Turkey,Gambling,7925.11,0,0,08/08/2024
+1103,"Murray, Matthews and Johnson",Syria,Finance,91767.49,1,0,09/09/2021
+1104,Jones-Schultz,UK,Crypto Exchange,47208.21,1,1,29/07/2022
+1105,"Haynes, Mcbride and Gutierrez",Germany,Manufacturing,72163.66,1,1,15/09/2023
+1106,"Nichols, Haynes and Baker",South Africa,Crypto Exchange,29201.88,0,1,22/02/2023
+1107,Ross Ltd,Iran,Crypto Exchange,62255.48,0,0,11/08/2023
+1108,Spencer and Sons,Mexico,Finance,28931.69,0,0,02/10/2024
+1109,Gomez-Shannon,Canada,Finance,37524.62,0,0,27/12/2022
+1110,Valentine Ltd,Afghanistan,Finance,88280.63,1,0,26/04/2022
+1111,Mclaughlin-Young,Canada,Gambling,46186.35,0,0,05/10/2022
+1112,Clark-Harris,South Africa,Oil & Gas,54348.66,1,0,28/10/2022
+1113,"Kelly, Maxwell and Wilson",Sudan,Consulting,67401.35,0,0,14/05/2021
+1114,"Sosa, Vasquez and Smith",Mexico,Gambling,59913.64,0,1,22/04/2025
+1115,Charles LLC,Canada,Oil & Gas,53008.38,0,0,20/05/2023
+1116,Villanueva-Ibarra,India,Consulting,57299.22,0,0,02/08/2025
+1117,Henry-Joyce,Iran,Crypto Exchange,98068.31,1,0,18/01/2025
+1118,Sanders-Christensen,Mexico,Manufacturing,48847.62,0,1,16/10/2021
+1119,Fox Group,Canada,Retail,54021.98,0,0,08/10/2024
+1120,"Johnson, Reed and Dalton",South Africa,Finance,71013.09,0,1,10/03/2022
+1121,Bray-Wolfe,Turkey,Consulting,72110.52,1,0,12/08/2024
+1122,Norris-Smith,Germany,Consulting,73740.61,0,1,29/06/2022
+1123,Carpenter-Nguyen,France,Consulting,62774.6,1,0,28/11/2022
+1124,Dunn and Sons,India,Finance,27139.9,1,1,29/12/2022
+1125,Mullen-Cooper,France,Crypto Exchange,82668.63,0,1,07/04/2022
+1126,Coleman-Barnes,Mexico,Consulting,27073.09,1,0,13/11/2023
+1127,Dickerson-Ramirez,Iran,Retail,56052.71,0,0,25/03/2022
+1128,"Anderson, Johnston and Perez",India,Crypto Exchange,34914.48,1,1,20/07/2021
+1129,"Nelson, Young and Reynolds",Brazil,Manufacturing,48717.23,0,1,10/12/2023
+1130,Thomas Ltd,UK,Gambling,56575.25,1,1,21/12/2021
+1131,Shaffer-Thompson,Mexico,Real Estate,56427.14,1,1,13/12/2024
+1132,Cowan Ltd,France,Crypto Exchange,58438.42,1,1,05/02/2025
+1133,"Le, Floyd and Evans",Syria,Real Estate,82274.23,1,1,25/06/2025
+1134,"Williams, Garcia and Martin",Afghanistan,Real Estate,59070.69,1,0,14/07/2022
+1135,Woods-Soto,USA,Manufacturing,45116.87,0,1,11/07/2024
+1136,"Cook, Ward and Castro",France,Finance,69281.74,0,0,22/11/2022
+1137,Smith-Martinez,Turkey,Consulting,73789.41,1,0,24/05/2022
+1138,"Johnston, Banks and Thompson",Syria,Consulting,25447.84,0,0,14/02/2023
+1139,Nguyen-Dixon,USA,Finance,61948,1,1,02/07/2024
+1140,James LLC,North Korea,Manufacturing,64023.45,1,0,23/08/2024
+1141,"Frye, Oneill and Davidson",Brazil,Manufacturing,44048.73,0,1,28/07/2023
+1142,Welch-Duncan,Canada,Consulting,77514.14,1,0,22/04/2021
+1143,Martin and Sons,France,Finance,46998.89,1,1,14/05/2023
+1144,Delgado-Page,Iran,Crypto Exchange,52511.53,1,0,24/01/2024
+1145,Barron-Norman,Iran,Crypto Exchange,46538.56,0,0,16/10/2023
+1146,"Matthews, Sheppard and Gutierrez",Brazil,Crypto Exchange,50311.58,0,0,07/04/2022
+1147,Martinez and Sons,North Korea,Gambling,28074.5,1,1,03/11/2022
+1148,"Haynes, Miller and Jackson",UK,Consulting,21198.98,1,0,30/07/2021
+1149,Brown Group,Turkey,Retail,81890.1,0,0,13/05/2025
+1150,Johnson Group,Turkey,Gambling,33060.77,1,1,26/02/2025
+1151,Garcia PLC,USA,Gambling,30172.15,0,0,08/01/2022
+1152,Pena Group,South Africa,Consulting,6932.2,0,1,02/05/2023
+1153,Wright LLC,Syria,Consulting,37220.77,0,0,20/06/2024
+1154,"Martinez, Rose and Jackson",Turkey,Gambling,23538.2,1,0,31/12/2020
+1155,"Kelly, Herman and Lin",France,Gambling,82840.3,1,1,03/09/2024
+1156,"Donovan, Dunn and Taylor",India,Oil & Gas,70196.34,0,1,15/04/2025
+1157,Garza Group,France,Oil & Gas,36236.99,1,0,01/07/2025
+1158,Mills-Fowler,South Africa,Manufacturing,95048.72,1,0,03/05/2023
+1159,Olson-Perez,India,Crypto Exchange,69635.31,0,1,18/06/2021
+1160,Parker-Gutierrez,India,Real Estate,43503.37,0,1,09/01/2022
+1161,Smith-Mills,Sudan,Gambling,11.89,0,1,10/11/2021
+1162,Mitchell-Nichols,UK,Real Estate,95818.85,0,0,19/11/2024
+1163,Evans-Cannon,South Africa,Real Estate,22208.55,1,0,12/03/2023
+1164,"Hall, Smith and Brooks",Canada,Gambling,17092.03,0,0,15/03/2024
+1165,"Kim, Wright and Espinoza",South Africa,Crypto Exchange,70451.41,0,0,06/01/2024
+1166,Walker-Miller,USA,Gambling,98795.05,0,0,27/09/2022
+1167,"Duran, Kent and Aguirre",Sudan,Crypto Exchange,77685.46,1,0,05/01/2023
+1168,Wong-Patel,France,Manufacturing,61278.18,0,0,27/12/2022
+1169,Lopez-Jones,UK,Oil & Gas,61895.09,0,0,11/11/2021
+1170,Rodriguez-Gibson,USA,Oil & Gas,67068.31,1,1,20/07/2024
+1171,Graves-Vasquez,South Africa,Gambling,65178.57,1,0,06/06/2023
+1172,Hernandez PLC,France,Gambling,55623.83,1,0,20/11/2020
+1173,Compton LLC,France,Finance,52084.02,0,1,28/12/2022
+1174,Espinoza Ltd,South Africa,Retail,48748.14,1,1,08/10/2020
+1175,Davis Inc,USA,Finance,34920.71,1,0,24/11/2024
+1176,Peterson LLC,Germany,Oil & Gas,44386.5,1,0,09/12/2024
+1177,Ford-Moody,Iran,Crypto Exchange,16140.86,1,0,06/07/2023
+1178,Bridges and Sons,Brazil,Real Estate,48033.21,1,0,06/03/2021
+1179,Rowe-Jones,Turkey,Gambling,30228.18,0,1,12/09/2024
+1180,Lee LLC,South Africa,Real Estate,27928.21,1,0,12/12/2023
+1181,Martinez Ltd,South Africa,Consulting,53597.88,0,1,26/10/2022
+1182,Wise-Ramos,Germany,Real Estate,77840.05,1,1,26/12/2020
+1183,Murray Inc,Afghanistan,Oil & Gas,68366.33,0,0,18/02/2025
+1184,"Hendrix, Kennedy and Maldonado",Mexico,Crypto Exchange,18589.99,0,1,10/05/2023
+1185,Moore-Chandler,France,Crypto Exchange,30207.44,1,1,17/05/2025
+1186,"Martinez, Olson and Evans",Sudan,Finance,68815.42,0,1,07/10/2023
+1187,Boyer and Sons,France,Retail,30350.25,0,1,29/08/2021
+1188,Chen LLC,South Africa,Finance,45507.34,1,1,29/10/2020
+1189,Bauer PLC,Afghanistan,Gambling,61001.04,0,1,19/09/2021
+1190,Mccormick-Smith,North Korea,Finance,30633.11,0,0,21/01/2021
+1191,"Logan, Alvarez and Carlson",USA,Gambling,52107.51,1,0,10/11/2023
+1192,Wright Group,South Africa,Real Estate,23319.49,1,1,23/06/2021
+1193,"Montgomery, Galvan and Shea",Brazil,Gambling,37972.65,1,0,18/03/2021
+1194,Kelly and Sons,India,Manufacturing,56395.64,1,0,06/04/2025
+1195,Martinez and Sons,Mexico,Finance,18140.13,1,1,25/05/2023
+1196,"Kramer, Sherman and Trujillo",Brazil,Oil & Gas,58809.49,1,0,07/06/2024
+1197,"Lee, Norris and Howard",India,Gambling,49607.24,1,0,05/11/2021
+1198,Roach-Washington,USA,Finance,61049.8,1,1,03/06/2024
+1199,"Phillips, Terry and Lopez",UK,Consulting,54478.28,0,0,15/04/2022
+1200,"Bailey, Oconnor and Hill",Syria,Real Estate,77282.81,0,1,01/06/2025
+1201,Jones and Sons,Brazil,Gambling,52504.49,1,1,10/07/2024
+1202,Weiss-Weaver,Afghanistan,Oil & Gas,41411.89,1,1,24/07/2024
+1203,Parsons PLC,India,Finance,52445.95,0,0,04/12/2023
+1204,"Lopez, Smith and Vincent",Syria,Crypto Exchange,60865.96,1,0,24/09/2022
+1205,Le-Barrett,Sudan,Finance,50977.2,1,0,14/04/2025
+1206,Lee-Vega,North Korea,Manufacturing,50811.83,1,0,23/05/2025
+1207,Austin LLC,Iran,Consulting,35960.17,0,0,09/03/2024
+1208,"Morris, Davis and Hopkins",Afghanistan,Finance,36741.98,0,1,27/01/2021
+1209,White Inc,Afghanistan,Crypto Exchange,21947.89,0,1,02/06/2022
+1210,Washington Inc,South Africa,Finance,84991.53,0,0,20/12/2020
+1211,"May, Price and Burns",Iran,Retail,25122.74,1,1,17/11/2022
+1212,Diaz PLC,USA,Oil & Gas,36141.9,1,1,21/04/2021
+1213,Conrad and Sons,Turkey,Oil & Gas,35631.85,0,0,17/11/2024
+1214,Mcdonald Ltd,Mexico,Oil & Gas,67898.49,1,1,20/03/2021
+1215,Grant-Hurley,Canada,Real Estate,44101.01,1,0,28/03/2024
+1216,Bauer-Brown,France,Manufacturing,74954.84,1,1,17/12/2022
+1217,"Williams, Jones and Torres",Brazil,Consulting,36530.19,1,0,15/07/2022
+1218,"Davis, Hardy and Schmidt",Afghanistan,Retail,55579.88,0,0,24/04/2022
+1219,Fox and Sons,Brazil,Gambling,33293.06,1,0,20/07/2025
+1220,"Meza, Hansen and Grant",Germany,Oil & Gas,92902.98,1,1,06/08/2021
+1221,"Ray, Craig and Park",Iran,Consulting,26248.03,1,0,01/05/2024
+1222,Jackson and Sons,France,Retail,56196.41,1,0,18/05/2025
+1223,Wagner-Sandoval,India,Consulting,62675.54,1,0,29/03/2025
+1224,"Ramos, Gomez and Edwards",Syria,Consulting,58275.98,1,0,18/06/2023
+1225,Gutierrez-Schultz,Afghanistan,Manufacturing,46294.25,1,0,14/06/2023
+1226,"Allen, Gardner and Brooks",Turkey,Gambling,47403.59,1,1,19/05/2025
+1227,"King, Nixon and West",India,Crypto Exchange,50876.23,0,0,29/01/2024
+1228,Barber LLC,Syria,Gambling,47059.96,0,1,02/11/2020
+1229,"Taylor, Zamora and Smith",Mexico,Oil & Gas,69277.58,1,1,03/08/2022
+1230,Foley Inc,Sudan,Real Estate,94210.46,0,0,18/01/2023
+1231,"Dixon, Duncan and Duncan",Iran,Retail,38850.16,0,0,02/07/2021
+1232,Stevens and Sons,Afghanistan,Gambling,22603.94,0,1,17/11/2021
+1233,Richardson-Perkins,Germany,Retail,48234.36,0,0,06/09/2022
+1234,Shepherd-Davis,Syria,Retail,101594.19,1,0,07/02/2024
+1235,"Hardin, Navarro and Cummings",Brazil,Consulting,33926.51,1,1,21/10/2024
+1236,Freeman Ltd,Brazil,Oil & Gas,82782.34,0,1,08/08/2025
+1237,Larson LLC,North Korea,Finance,83554.02,0,1,07/01/2021
+1238,"Stokes, James and Deleon",France,Consulting,38928.24,0,1,18/07/2023
+1239,Hobbs-Hamilton,Syria,Crypto Exchange,61379.66,1,1,22/09/2021
+1240,Adkins PLC,USA,Retail,82567.93,0,0,18/10/2020
+1241,"Waters, Reyes and Torres",India,Oil & Gas,42417.45,0,0,18/01/2021
+1242,Fernandez-Hernandez,Sudan,Oil & Gas,45928.39,0,0,21/12/2024
+1243,"Walker, Williams and Dennis",South Africa,Consulting,38366.38,1,1,16/01/2024
+1244,Mullins-Johnston,Syria,Retail,29704.87,0,1,19/06/2021
+1245,Reynolds Group,South Africa,Gambling,37014.45,0,1,16/12/2021
+1246,Rogers Group,Canada,Retail,25521.19,0,0,24/07/2025
+1247,"Williams, Ross and Miller",Sudan,Consulting,50681.67,1,0,20/12/2024
+1248,Ayala-Anderson,Syria,Gambling,34600.54,0,1,06/11/2021
+1249,Hansen-Freeman,France,Crypto Exchange,54675.72,0,0,24/07/2025
+1250,Hoffman Ltd,Mexico,Oil & Gas,18882.09,0,1,27/02/2025
+1251,Allen LLC,France,Manufacturing,56617.6,0,0,11/05/2024
+1252,Cohen-Johnston,South Africa,Manufacturing,66670.58,1,0,28/08/2021
+1253,"Gutierrez, Diaz and Lee",Iran,Real Estate,10125.29,0,0,19/08/2023
+1254,"Rios, Carrillo and Jackson",Syria,Oil & Gas,57481.13,0,1,04/09/2023
+1255,"Underwood, Lang and Hanson",Turkey,Real Estate,74553.38,1,0,12/06/2024
+1256,Glass and Sons,Iran,Consulting,25807.18,1,0,26/05/2022
+1257,"Brooks, Todd and Farrell",Afghanistan,Retail,83451.45,1,1,28/08/2021
+1258,"Brown, Rush and Mcintosh",Turkey,Gambling,58380.38,1,0,23/02/2023
+1259,Cooper Inc,Mexico,Finance,35899.76,1,1,18/04/2023
+1260,Ruiz-Rivera,Germany,Oil & Gas,48884.62,1,0,11/04/2025
+1261,Harris PLC,North Korea,Finance,61166.54,1,1,25/11/2022
+1262,"Webb, Blair and Thomas",USA,Gambling,51520.11,1,1,09/11/2020
+1263,Aguilar-Alvarado,Iran,Consulting,60775.12,0,0,26/01/2021
+1264,Jackson-Campbell,Mexico,Real Estate,31586.53,0,1,03/01/2023
+1265,Marshall Inc,Germany,Manufacturing,53387.22,1,0,07/04/2021
+1266,Guerrero-Alvarado,Turkey,Oil & Gas,21725.71,0,1,07/10/2023
+1267,Smith Ltd,Brazil,Consulting,47775.48,1,0,27/12/2023
+1268,Whitney PLC,North Korea,Manufacturing,31921.85,0,0,19/07/2021
+1269,Washington-Harper,Syria,Retail,35289.4,0,0,13/06/2021
+1270,Gonzalez Group,South Africa,Crypto Exchange,74721.86,0,0,20/06/2025
+1271,"Smith, Wright and Moreno",Mexico,Consulting,71826.2,1,1,16/07/2023
+1272,Long-Moore,Iran,Real Estate,62182.76,0,0,26/08/2023
+1273,"Bell, Garrett and Young",Iran,Crypto Exchange,28153.74,1,0,18/12/2024
+1274,Cain-Garrett,South Africa,Retail,43671.83,1,1,29/12/2023
+1275,Raymond LLC,USA,Real Estate,74261.95,0,1,14/08/2022
+1276,Peterson Group,Turkey,Retail,52834.34,0,1,13/11/2021
+1277,Blair PLC,North Korea,Crypto Exchange,96386.59,0,0,20/08/2022
+1278,Allen-Hernandez,Germany,Crypto Exchange,57866.36,1,0,11/05/2023
+1279,"Murphy, Daniels and Clark",Sudan,Crypto Exchange,53840.98,0,1,17/11/2021
+1280,"Weaver, Mcbride and Huffman",Germany,Manufacturing,43817.67,1,1,01/05/2023
+1281,"Thornton, Mills and Taylor",Germany,Consulting,52670.82,0,0,07/12/2021
+1282,"Fitzpatrick, Stark and Stewart",France,Finance,46950.6,1,1,10/06/2025
+1283,"Fry, Wilson and Stewart",UK,Finance,64162.17,1,1,09/12/2021
+1284,"Johnson, Flores and Dudley",Canada,Real Estate,69134.05,1,1,13/03/2024
+1285,Ramos-Peck,India,Consulting,34280.21,1,0,11/01/2023
+1286,Maxwell Inc,Mexico,Crypto Exchange,23375.34,1,1,26/10/2021
+1287,Johnson PLC,Brazil,Oil & Gas,13275.89,1,1,21/12/2022
+1288,"Bradley, Hall and Hall",Iran,Retail,60159.83,1,0,03/12/2020
+1289,Miller-Chan,Turkey,Finance,27932.67,1,0,03/11/2021
+1290,"Mathis, Harrison and Banks",Afghanistan,Crypto Exchange,6942.19,0,1,07/04/2022
+1291,Henry-Taylor,Iran,Gambling,57771.57,0,0,06/05/2022
+1292,Johnson Inc,Iran,Oil & Gas,99859.99,1,0,30/12/2022
+1293,Walker-Powers,Syria,Gambling,49878.58,1,0,05/06/2022
+1294,Jones Group,Sudan,Gambling,66769.82,1,0,13/11/2024
+1295,"Nguyen, Ellis and Wright",Mexico,Consulting,51636.59,0,0,22/02/2024
+1296,Franklin Group,Germany,Real Estate,48022.21,1,0,13/05/2023
+1297,Carr-Newton,South Africa,Manufacturing,68381.53,1,0,05/04/2025
+1298,"Davidson, Padilla and Johnson",Germany,Consulting,44194.51,0,0,18/08/2021
+1299,Bryant-Rich,Canada,Real Estate,55347.85,1,1,16/10/2022
+1300,"Medina, Terrell and Williams",India,Manufacturing,56433.96,0,0,30/12/2023
+1301,"Hubbard, Estes and Lee",UK,Consulting,36638.19,0,1,09/06/2024
+1302,Wilkerson-Ayala,Turkey,Retail,69840.85,1,0,18/02/2023
+1303,Jackson-Phillips,Brazil,Crypto Exchange,46500.8,0,0,01/03/2021
+1304,"Black, Thomas and Gallegos",UK,Consulting,34885.1,1,0,17/07/2024
+1305,Sharp Inc,Sudan,Consulting,60730.2,1,1,25/03/2022
+1306,"Pace, Horton and Taylor",Syria,Finance,32030.64,1,0,20/03/2024
+1307,Hayes-White,South Africa,Retail,50563.62,1,1,02/06/2022
+1308,Davis-Nguyen,North Korea,Consulting,49817.62,1,0,04/02/2022
+1309,"Quinn, Davis and Mccarthy",France,Finance,71717.91,1,0,15/10/2023
+1310,Mills Group,South Africa,Consulting,59493.96,0,0,19/01/2025
+1311,"Herring, Gray and James",Sudan,Manufacturing,49499.46,1,1,25/02/2022
+1312,Cunningham-Keller,Brazil,Manufacturing,66355.33,0,1,23/12/2021
+1313,Melton and Sons,India,Real Estate,77804.15,1,0,19/02/2021
+1314,Parker-Cross,Brazil,Real Estate,61156.21,0,1,30/06/2024
+1315,Sims-Wilson,Syria,Real Estate,50207.05,1,0,26/10/2021
+1316,Smith LLC,South Africa,Retail,23763.28,0,0,20/10/2020
+1317,Jimenez-Jimenez,UK,Real Estate,28697.73,0,0,30/09/2020
+1318,"Andrade, Young and Chapman",North Korea,Retail,43895.51,0,0,29/09/2024
+1319,Ortiz-Miller,USA,Gambling,37809.76,0,1,03/10/2020
+1320,Khan LLC,Germany,Manufacturing,46260.57,1,1,11/06/2025
+1321,Williams and Sons,South Africa,Retail,51133,1,0,03/03/2021
+1322,"Bailey, Thomas and Johnson",Germany,Crypto Exchange,60593.86,0,1,14/08/2025
+1323,"Evans, Knapp and Williams",Turkey,Oil & Gas,48590.02,0,0,31/03/2024
+1324,Martin LLC,India,Retail,59730.03,1,0,27/07/2025
+1325,"Thompson, Gibson and Riley",Iran,Gambling,51289.49,0,1,02/01/2021
+1326,Mack LLC,Iran,Oil & Gas,10490.67,0,0,02/11/2023
+1327,Wilkins-Chang,India,Gambling,31213.29,1,0,20/05/2025
+1328,Carter and Sons,Iran,Gambling,47118.25,1,0,27/09/2021
+1329,"Villarreal, Murphy and Gutierrez",India,Manufacturing,25806.11,1,1,26/06/2022
+1330,"Clark, Brown and Duncan",USA,Manufacturing,61998.57,0,0,14/03/2025
+1331,Webb Ltd,Turkey,Oil & Gas,80615.02,0,0,22/02/2023
+1332,Lynch-Stewart,Sudan,Gambling,74375.24,1,1,03/03/2025
+1333,"Carney, Gomez and Anderson",India,Finance,45731.14,0,1,27/06/2025
+1334,Stone-Welch,UK,Real Estate,79814.52,1,1,21/11/2024
+1335,Stephenson and Sons,Sudan,Gambling,52973.35,0,1,04/03/2023
+1336,Smith Inc,Canada,Consulting,43258.28,0,1,27/08/2024
+1337,"Robles, Mclaughlin and Clark",Sudan,Finance,37731.95,1,1,24/03/2024
+1338,Williams-Bailey,UK,Finance,43950.61,0,1,04/07/2022
+1339,Davidson Ltd,Turkey,Crypto Exchange,42236.46,1,0,04/02/2023
+1340,Tyler-Parker,Mexico,Finance,53408.32,1,1,04/01/2025
+1341,"Nguyen, Smith and Jennings",Canada,Real Estate,53211.48,1,0,09/08/2023
+1342,Ramsey-Gilbert,Sudan,Finance,50060.92,0,0,12/12/2020
+1343,Lee LLC,Afghanistan,Finance,58738.76,1,0,10/10/2024
+1344,Robles-Brewer,UK,Finance,73812.93,1,0,17/10/2024
+1345,Burton PLC,Turkey,Manufacturing,68991.08,0,1,21/07/2023
+1346,Bowers-Gutierrez,USA,Finance,20302.04,0,1,06/03/2021
+1347,"Evans, Hardy and Stewart",Canada,Consulting,1078.42,1,1,04/04/2025
+1348,Clark Ltd,South Africa,Gambling,68686.4,0,0,10/07/2023
+1349,Jones-Hernandez,North Korea,Finance,22662.43,0,0,18/12/2020
+1350,Terrell-Sims,France,Gambling,45504.69,0,0,10/02/2022
+1351,"Obrien, Lopez and Wilson",Sudan,Retail,26597.74,1,0,28/04/2023
+1352,"Hodge, Mckinney and Nelson",Germany,Oil & Gas,13960.39,0,1,09/06/2021
+1353,Wiley-Watson,Germany,Real Estate,60829.25,0,1,11/04/2023
+1354,Warren and Sons,South Africa,Oil & Gas,65183.1,0,0,27/08/2021
+1355,Glover-Strickland,Sudan,Crypto Exchange,38469.79,0,1,27/06/2021
+1356,Hunter-Lloyd,France,Retail,1820.85,1,1,14/12/2024
+1357,Lee Group,Sudan,Crypto Exchange,39075.11,0,0,25/02/2025
+1358,Rowe-Thomas,Syria,Oil & Gas,57836.08,1,1,15/07/2021
+1359,"Rhodes, Anderson and Hardy",USA,Oil & Gas,20421.77,0,1,10/08/2024
+1360,Reeves-Boyd,India,Retail,53667.2,1,1,25/09/2020
+1361,Randolph-Mcdaniel,India,Retail,49693.8,0,1,10/06/2021
+1362,Owens-Williams,South Africa,Retail,61585.83,0,1,16/02/2025
+1363,"Reese, Johnson and Blake",Germany,Retail,52391.61,1,0,26/06/2022
+1364,Gonzalez-Mitchell,Sudan,Gambling,30538.62,1,1,24/03/2025
+1365,Mejia-Lambert,Canada,Gambling,73931.43,1,1,08/01/2023
+1366,Moore Inc,Syria,Consulting,46829.41,1,0,30/10/2020
+1367,"Castro, Garcia and Daniels",Germany,Finance,49453.91,1,1,16/05/2025
+1368,Nelson-Harding,North Korea,Manufacturing,31334.64,0,0,10/02/2023
+1369,"Sanchez, Jones and Austin",India,Consulting,41134.35,1,1,01/08/2023
+1370,"Wallace, Anderson and Ruiz",Iran,Finance,32303.95,1,0,16/02/2021
+1371,Reyes Inc,Canada,Oil & Gas,46541.08,0,1,29/04/2024
+1372,White-Carlson,Brazil,Finance,84234.17,0,0,29/06/2024
+1373,"Kelly, Cook and Gonzalez",North Korea,Oil & Gas,22561.98,1,0,28/03/2025
+1374,Beltran Group,Turkey,Consulting,17728.77,0,1,13/07/2025
+1375,Davis Ltd,Turkey,Consulting,79423.41,0,0,06/09/2024
+1376,Bryant Ltd,Canada,Real Estate,45813.53,0,0,28/08/2024
+1377,Hall-Walker,USA,Finance,36618.55,0,0,23/11/2022
+1378,Myers-Lyons,India,Gambling,70798.09,1,1,06/07/2023
+1379,Chavez-Johnson,Afghanistan,Finance,37887.69,0,0,28/09/2024
+1380,Bell Group,Sudan,Retail,86520.19,1,0,25/02/2022
+1381,Tate-Munoz,South Africa,Oil & Gas,63558.52,1,0,13/10/2021
+1382,"Garcia, Roth and Robles",Mexico,Oil & Gas,40241.77,0,0,22/06/2023
+1383,"Banks, Sparks and Patel",Mexico,Oil & Gas,93146.16,1,1,10/02/2024
+1384,"Gutierrez, Oliver and Kelley",South Africa,Manufacturing,37885.7,0,0,20/10/2024
+1385,Jones-Clark,Canada,Gambling,64841.91,0,0,14/05/2024
+1386,Bradley-Peterson,Syria,Finance,55985.85,0,1,16/09/2022
+1387,Bates Inc,Iran,Finance,76034.83,0,1,01/08/2025
+1388,Wilson-Carlson,Brazil,Manufacturing,81230.22,0,0,20/06/2023
+1389,"Davis, Wallace and Parker",India,Finance,50640.08,0,1,25/02/2024
+1390,George Ltd,Mexico,Finance,34931.64,1,1,04/12/2023
+1391,Snyder-Keller,Canada,Retail,59199.44,0,1,21/06/2021
+1392,Montoya PLC,Brazil,Real Estate,36445.69,1,0,13/09/2020
+1393,Guerrero Group,France,Consulting,90267.74,0,1,21/03/2025
+1394,Price-Lane,South Africa,Finance,52730.71,0,1,13/05/2022
+1395,Maldonado LLC,Brazil,Consulting,42693.57,0,0,02/04/2023
+1396,"Bauer, Frazier and Sellers",Mexico,Retail,53693.61,0,0,25/05/2024
+1397,"Haas, Cooper and Davis",South Africa,Gambling,23057.47,1,1,08/10/2020
+1398,"Downs, Powell and Anderson",Afghanistan,Real Estate,30567.72,0,1,15/03/2023
+1399,Wood PLC,Turkey,Oil & Gas,74008.28,1,0,25/02/2021
+1400,Warner LLC,Canada,Crypto Exchange,36862.11,1,0,19/08/2021
+1401,Glenn-Young,Iran,Manufacturing,29061.78,0,1,20/01/2024
+1402,"Flores, Reyes and James",UK,Manufacturing,60733.06,0,1,03/05/2025
+1403,Bates Group,India,Retail,73714.08,1,1,19/11/2021
+1404,Peters LLC,Turkey,Crypto Exchange,64379.07,0,0,01/04/2024
+1405,Roberts Ltd,Germany,Gambling,69920.95,1,0,08/10/2021
+1406,Smith Ltd,Afghanistan,Gambling,34864.1,1,0,31/10/2020
+1407,Griffith Group,North Korea,Real Estate,21563.79,1,1,31/05/2024
+1408,Miller Ltd,Germany,Retail,80026.67,0,0,28/03/2024
+1409,English-Dominguez,Brazil,Real Estate,43546.4,1,1,27/04/2024
+1410,"White, Hicks and Arnold",France,Retail,44983.34,0,1,12/07/2024
+1411,Kelly-Lopez,Syria,Oil & Gas,76563.88,1,1,06/10/2020
+1412,"Jimenez, Simon and Joseph",France,Consulting,61124.6,0,1,28/12/2022
+1413,House-Johnston,Mexico,Real Estate,59117.76,0,0,25/12/2020
+1414,Carroll Ltd,Mexico,Real Estate,93300.05,1,0,02/11/2023
+1415,Carpenter Ltd,Syria,Gambling,37129.64,0,1,19/05/2021
+1416,Cross PLC,India,Finance,68556.8,1,0,29/01/2023
+1417,Black-Mills,Mexico,Manufacturing,51140.26,1,1,14/06/2021
+1418,Kennedy Ltd,Germany,Retail,55371.85,1,1,13/05/2021
+1419,"Schultz, Yates and Edwards",North Korea,Oil & Gas,80569.37,0,1,23/02/2021
+1420,Nichols-Smith,South Africa,Gambling,60156.72,0,1,24/07/2024
+1421,"Escobar, Berry and Rivera",Syria,Manufacturing,60765.92,1,0,14/09/2023
+1422,Roberts-Johnson,France,Crypto Exchange,71450.15,0,1,15/04/2023
+1423,"Glover, Green and Soto",Turkey,Retail,42700.95,1,0,14/08/2025
+1424,Berry Ltd,Sudan,Real Estate,33215.81,1,1,08/03/2023
+1425,"Weber, Mitchell and Miller",France,Real Estate,29103.82,0,0,31/12/2024
+1426,York LLC,USA,Finance,10672.87,0,0,05/11/2022
+1427,Gilbert LLC,South Africa,Consulting,91124.14,0,0,20/11/2022
+1428,Figueroa PLC,Afghanistan,Retail,27935.83,0,1,09/03/2022
+1429,"Stevenson, Hopkins and Wood",South Africa,Retail,45574.93,0,1,11/03/2022
+1430,Patton-Young,Iran,Gambling,44463.73,0,1,28/03/2022
+1431,"Atkins, Cooper and Miller",Sudan,Crypto Exchange,56148.13,1,1,07/12/2021
+1432,"Peck, Moore and Crawford",Turkey,Real Estate,66314.74,1,0,18/03/2024
+1433,Young-Alexander,Afghanistan,Finance,67209.47,0,1,14/02/2022
+1434,Lane LLC,North Korea,Retail,38338.45,0,0,28/02/2021
+1435,"Baker, Weiss and Williams",Turkey,Real Estate,46657.57,1,1,24/08/2024
+1436,Alvarez-Alvarez,Syria,Gambling,55651.6,0,0,25/03/2025
+1437,James Ltd,North Korea,Gambling,45026.18,1,1,07/01/2024
+1438,Baker-Moreno,Iran,Finance,82146.91,0,1,25/05/2024
+1439,Roberts Group,Canada,Retail,59819.5,0,1,13/12/2023
+1440,"Stewart, Moreno and Blanchard",Iran,Manufacturing,64697.56,1,1,12/07/2021
+1441,"Walsh, Blanchard and Reynolds",Syria,Oil & Gas,63257.63,1,1,07/01/2023
+1442,Nelson-Lang,Brazil,Crypto Exchange,73469.48,0,1,15/11/2022
+1443,"Silva, Murray and Leonard",Mexico,Finance,53620.43,0,1,04/10/2022
+1444,"Powers, Townsend and Meyer",North Korea,Oil & Gas,24063.36,1,1,25/03/2022
+1445,Kelley-Chambers,South Africa,Crypto Exchange,57993.76,0,0,12/04/2021
+1446,Jenkins PLC,USA,Gambling,36972.86,1,1,01/08/2021
+1447,"Griffin, Robinson and Campbell",Syria,Real Estate,39427.67,1,1,05/05/2022
+1448,Johnson Inc,South Africa,Retail,61727.28,0,1,08/03/2021
+1449,"Douglas, Houston and Sampson",North Korea,Real Estate,74765.66,1,1,26/09/2021
+1450,"Rosario, Miller and Jacobs",USA,Finance,50425.43,1,1,25/11/2023
+1451,"Gallagher, Wong and Pratt",Mexico,Finance,56176.66,0,1,10/04/2022
+1452,Dominguez LLC,USA,Manufacturing,84044.3,1,0,17/03/2023
+1453,Guerrero-Jones,France,Gambling,54815.06,1,1,22/07/2024
+1454,Hammond-Schwartz,Mexico,Consulting,102033.66,0,0,14/06/2023
+1455,Martin-Jones,Turkey,Finance,61310.19,1,1,25/03/2021
+1456,Price-Ferrell,North Korea,Real Estate,14784.74,0,1,24/11/2022
+1457,Thompson-Jones,France,Consulting,65066.83,1,0,29/05/2022
+1458,"Long, Brewer and Rodriguez",Syria,Manufacturing,57623.17,1,0,19/04/2025
+1459,Robinson-Schneider,Mexico,Oil & Gas,75795.06,1,0,15/06/2024
+1460,"Green, Johnson and Jones",USA,Oil & Gas,63463.63,0,1,31/10/2022
+1461,Smith-Jimenez,India,Manufacturing,47230.88,0,1,15/09/2020
+1462,Ortega LLC,Brazil,Oil & Gas,25514.04,0,0,28/12/2021
+1463,"Rivera, Myers and Smith",Sudan,Finance,45819.53,0,0,15/11/2024
+1464,Graham-Anthony,UK,Finance,32989.59,1,1,18/04/2021
+1465,"Perez, Cruz and Norris",India,Oil & Gas,38389.53,0,0,19/10/2024
+1466,Bradley LLC,UK,Real Estate,61771.57,1,1,15/07/2023
+1467,"Turner, Brown and Shea",Canada,Consulting,83398.09,1,0,21/06/2021
+1468,Nichols-Woodward,Mexico,Retail,57893.43,1,0,20/05/2021
+1469,Hodges-Roberts,USA,Gambling,26082.34,0,1,06/06/2022
+1470,Spencer Group,Canada,Retail,58892.05,0,1,29/04/2022
+1471,Dominguez-Mosley,North Korea,Gambling,73932.63,0,0,04/10/2023
+1472,Miller-Chen,India,Consulting,37804.34,1,1,24/04/2022
+1473,Johnson Inc,India,Consulting,47319.66,1,0,23/09/2022
+1474,Price-Sparks,UK,Finance,50293.76,1,0,27/04/2023
+1475,Ferguson-Flowers,Sudan,Consulting,34302.03,1,1,09/07/2024
+1476,Johnson Inc,Syria,Gambling,62965.61,0,0,29/07/2023
+1477,"Williams, Wilson and Roman",Iran,Manufacturing,47581.04,0,0,24/02/2025
+1478,Bentley-Berg,Germany,Oil & Gas,58390.65,1,0,07/04/2025
+1479,Figueroa and Sons,North Korea,Finance,32250.16,1,1,24/04/2021
+1480,Moss Group,Canada,Consulting,41250.83,0,1,11/11/2020
+1481,Meadows-Montgomery,Turkey,Consulting,64447.63,1,1,06/10/2022
+1482,"Banks, Smith and Chen",Brazil,Crypto Exchange,42543.34,0,1,25/04/2023
+1483,Bryant and Sons,Mexico,Retail,84539.28,1,0,30/03/2021
+1484,Wilson PLC,Germany,Gambling,42007.28,1,1,30/07/2022
+1485,Brock Group,Iran,Retail,54493.69,1,1,28/07/2023
+1486,"Gregory, Nguyen and Daugherty",North Korea,Oil & Gas,68651.82,0,0,07/08/2025
+1487,"Taylor, Copeland and Mcguire",Germany,Gambling,21632.69,1,0,01/02/2021
+1488,"Thompson, Brown and Hill",Turkey,Manufacturing,14783.82,0,1,25/03/2024
+1489,Horton PLC,UK,Manufacturing,19486.87,1,0,07/02/2022
+1490,Sanchez-Perkins,Canada,Real Estate,75251.68,0,1,01/11/2021
+1491,Moody Ltd,South Africa,Oil & Gas,38962.84,1,1,25/11/2023
+1492,Smith Group,Brazil,Gambling,101163.99,1,0,21/05/2021
+1493,Smith Inc,Iran,Gambling,38715.05,1,0,11/02/2023
+1494,Steele-Sparks,UK,Oil & Gas,53691.03,0,0,30/09/2024
+1495,"Martinez, Thomas and Nelson",UK,Gambling,80842.2,0,1,13/07/2024
+1496,Allen-Thompson,South Africa,Manufacturing,90121.86,0,0,07/01/2021
+1497,"White, Porter and Clements",USA,Gambling,91230.07,1,0,06/04/2023
+1498,Barnes-Grant,Mexico,Gambling,74167.32,1,1,02/05/2022
+1499,Downs Inc,Iran,Manufacturing,70481.25,0,0,12/10/2023
+1500,"Romero, Marshall and Sims",UK,Oil & Gas,61850.54,1,0,21/06/2022
